@@ -1,0 +1,9606 @@
+﻿[
+  {
+    "PlayerId": 8685,
+    "StatisticId": 1
+  },
+  {
+    "PlayerId": 8587,
+    "StatisticId": 2
+  },
+  {
+    "PlayerId": 7179,
+    "StatisticId": 3
+  },
+  {
+    "PlayerId": 7287,
+    "StatisticId": 4
+  },
+  {
+    "PlayerId": 6694,
+    "StatisticId": 5
+  },
+  {
+    "PlayerId": 6837,
+    "StatisticId": 6
+  },
+  {
+    "PlayerId": 2747,
+    "StatisticId": 7
+  },
+  {
+    "PlayerId": 1173,
+    "StatisticId": 8
+  },
+  {
+    "PlayerId": 9547,
+    "StatisticId": 9
+  },
+  {
+    "PlayerId": 4742,
+    "StatisticId": 10
+  },
+  {
+    "PlayerId": 5542,
+    "StatisticId": 11
+  },
+  {
+    "PlayerId": 8693,
+    "StatisticId": 12
+  },
+  {
+    "PlayerId": 7973,
+    "StatisticId": 13
+  },
+  {
+    "PlayerId": 9255,
+    "StatisticId": 14
+  },
+  {
+    "PlayerId": 2989,
+    "StatisticId": 15
+  },
+  {
+    "PlayerId": 6148,
+    "StatisticId": 16
+  },
+  {
+    "PlayerId": 2164,
+    "StatisticId": 17
+  },
+  {
+    "PlayerId": 3408,
+    "StatisticId": 18
+  },
+  {
+    "PlayerId": 6363,
+    "StatisticId": 19
+  },
+  {
+    "PlayerId": 6480,
+    "StatisticId": 20
+  },
+  {
+    "PlayerId": 6187,
+    "StatisticId": 21
+  },
+  {
+    "PlayerId": 10683,
+    "StatisticId": 22
+  },
+  {
+    "PlayerId": 6882,
+    "StatisticId": 23
+  },
+  {
+    "PlayerId": 5074,
+    "StatisticId": 24
+  },
+  {
+    "PlayerId": 9400,
+    "StatisticId": 25
+  },
+  {
+    "PlayerId": 7932,
+    "StatisticId": 26
+  },
+  {
+    "PlayerId": 8082,
+    "StatisticId": 27
+  },
+  {
+    "PlayerId": 8916,
+    "StatisticId": 28
+  },
+  {
+    "PlayerId": 10258,
+    "StatisticId": 29
+  },
+  {
+    "PlayerId": 5337,
+    "StatisticId": 30
+  },
+  {
+    "PlayerId": 10508,
+    "StatisticId": 31
+  },
+  {
+    "PlayerId": 8851,
+    "StatisticId": 32
+  },
+  {
+    "PlayerId": 8638,
+    "StatisticId": 33
+  },
+  {
+    "PlayerId": 10418,
+    "StatisticId": 34
+  },
+  {
+    "PlayerId": 9816,
+    "StatisticId": 35
+  },
+  {
+    "PlayerId": 9365,
+    "StatisticId": 36
+  },
+  {
+    "PlayerId": 5192,
+    "StatisticId": 37
+  },
+  {
+    "PlayerId": 7819,
+    "StatisticId": 38
+  },
+  {
+    "PlayerId": 4833,
+    "StatisticId": 39
+  },
+  {
+    "PlayerId": 4908,
+    "StatisticId": 40
+  },
+  {
+    "PlayerId": 8663,
+    "StatisticId": 41
+  },
+  {
+    "PlayerId": 8587,
+    "StatisticId": 42
+  },
+  {
+    "PlayerId": 8639,
+    "StatisticId": 43
+  },
+  {
+    "PlayerId": 9057,
+    "StatisticId": 44
+  },
+  {
+    "PlayerId": 9062,
+    "StatisticId": 45
+  },
+  {
+    "PlayerId": 8925,
+    "StatisticId": 46
+  },
+  {
+    "PlayerId": 3894,
+    "StatisticId": 47
+  },
+  {
+    "PlayerId": 3941,
+    "StatisticId": 48
+  },
+  {
+    "PlayerId": 3757,
+    "StatisticId": 49
+  },
+  {
+    "PlayerId": 822,
+    "StatisticId": 50
+  },
+  {
+    "PlayerId": 7264,
+    "StatisticId": 51
+  },
+  {
+    "PlayerId": 5434,
+    "StatisticId": 52
+  },
+  {
+    "PlayerId": 7987,
+    "StatisticId": 53
+  },
+  {
+    "PlayerId": 7954,
+    "StatisticId": 54
+  },
+  {
+    "PlayerId": 1638,
+    "StatisticId": 55
+  },
+  {
+    "PlayerId": 1703,
+    "StatisticId": 56
+  },
+  {
+    "PlayerId": 3696,
+    "StatisticId": 57
+  },
+  {
+    "PlayerId": 3847,
+    "StatisticId": 58
+  },
+  {
+    "PlayerId": 3201,
+    "StatisticId": 59
+  },
+  {
+    "PlayerId": 4738,
+    "StatisticId": 60
+  },
+  {
+    "PlayerId": 10780,
+    "StatisticId": 61
+  },
+  {
+    "PlayerId": 11118,
+    "StatisticId": 62
+  },
+  {
+    "PlayerId": 8891,
+    "StatisticId": 63
+  },
+  {
+    "PlayerId": 8984,
+    "StatisticId": 64
+  },
+  {
+    "PlayerId": 5659,
+    "StatisticId": 65
+  },
+  {
+    "PlayerId": 3555,
+    "StatisticId": 66
+  },
+  {
+    "PlayerId": 8582,
+    "StatisticId": 67
+  },
+  {
+    "PlayerId": 1302,
+    "StatisticId": 68
+  },
+  {
+    "PlayerId": 5661,
+    "StatisticId": 69
+  },
+  {
+    "PlayerId": 3195,
+    "StatisticId": 70
+  },
+  {
+    "PlayerId": 4126,
+    "StatisticId": 71
+  },
+  {
+    "PlayerId": 5404,
+    "StatisticId": 72
+  },
+  {
+    "PlayerId": 8862,
+    "StatisticId": 73
+  },
+  {
+    "PlayerId": 1587,
+    "StatisticId": 74
+  },
+  {
+    "PlayerId": 7837,
+    "StatisticId": 75
+  },
+  {
+    "PlayerId": 11342,
+    "StatisticId": 76
+  },
+  {
+    "PlayerId": 7951,
+    "StatisticId": 77
+  },
+  {
+    "PlayerId": 8072,
+    "StatisticId": 78
+  },
+  {
+    "PlayerId": 5783,
+    "StatisticId": 79
+  },
+  {
+    "PlayerId": 1394,
+    "StatisticId": 80
+  },
+  {
+    "PlayerId": 10980,
+    "StatisticId": 81
+  },
+  {
+    "PlayerId": 10499,
+    "StatisticId": 82
+  },
+  {
+    "PlayerId": 579,
+    "StatisticId": 83
+  },
+  {
+    "PlayerId": 11358,
+    "StatisticId": 84
+  },
+  {
+    "PlayerId": 11108,
+    "StatisticId": 85
+  },
+  {
+    "PlayerId": 11156,
+    "StatisticId": 86
+  },
+  {
+    "PlayerId": 696,
+    "StatisticId": 87
+  },
+  {
+    "PlayerId": 355,
+    "StatisticId": 88
+  },
+  {
+    "PlayerId": 354,
+    "StatisticId": 89
+  },
+  {
+    "PlayerId": 577,
+    "StatisticId": 90
+  },
+  {
+    "PlayerId": 770,
+    "StatisticId": 91
+  },
+  {
+    "PlayerId": 609,
+    "StatisticId": 92
+  },
+  {
+    "PlayerId": 467,
+    "StatisticId": 93
+  },
+  {
+    "PlayerId": 1888,
+    "StatisticId": 94
+  },
+  {
+    "PlayerId": 1961,
+    "StatisticId": 95
+  },
+  {
+    "PlayerId": 1933,
+    "StatisticId": 96
+  },
+  {
+    "PlayerId": 1849,
+    "StatisticId": 97
+  },
+  {
+    "PlayerId": 1929,
+    "StatisticId": 98
+  },
+  {
+    "PlayerId": 10889,
+    "StatisticId": 99
+  },
+  {
+    "PlayerId": 11422,
+    "StatisticId": 100
+  },
+  {
+    "PlayerId": 10953,
+    "StatisticId": 101
+  },
+  {
+    "PlayerId": 11327,
+    "StatisticId": 102
+  },
+  {
+    "PlayerId": 11062,
+    "StatisticId": 103
+  },
+  {
+    "PlayerId": 11362,
+    "StatisticId": 104
+  },
+  {
+    "PlayerId": 11180,
+    "StatisticId": 105
+  },
+  {
+    "PlayerId": 6026,
+    "StatisticId": 106
+  },
+  {
+    "PlayerId": 11425,
+    "StatisticId": 107
+  },
+  {
+    "PlayerId": 11004,
+    "StatisticId": 108
+  },
+  {
+    "PlayerId": 11525,
+    "StatisticId": 109
+  },
+  {
+    "PlayerId": 4308,
+    "StatisticId": 110
+  },
+  {
+    "PlayerId": 10611,
+    "StatisticId": 111
+  },
+  {
+    "PlayerId": 8142,
+    "StatisticId": 112
+  },
+  {
+    "PlayerId": 11467,
+    "StatisticId": 113
+  },
+  {
+    "PlayerId": 9038,
+    "StatisticId": 114
+  },
+  {
+    "PlayerId": 2141,
+    "StatisticId": 115
+  },
+  {
+    "PlayerId": 10586,
+    "StatisticId": 116
+  },
+  {
+    "PlayerId": 7845,
+    "StatisticId": 117
+  },
+  {
+    "PlayerId": 4917,
+    "StatisticId": 118
+  },
+  {
+    "PlayerId": 6365,
+    "StatisticId": 119
+  },
+  {
+    "PlayerId": 7759,
+    "StatisticId": 120
+  },
+  {
+    "PlayerId": 2194,
+    "StatisticId": 121
+  },
+  {
+    "PlayerId": 5591,
+    "StatisticId": 122
+  },
+  {
+    "PlayerId": 8685,
+    "StatisticId": 123
+  },
+  {
+    "PlayerId": 8762,
+    "StatisticId": 124
+  },
+  {
+    "PlayerId": 8713,
+    "StatisticId": 125
+  },
+  {
+    "PlayerId": 2150,
+    "StatisticId": 126
+  },
+  {
+    "PlayerId": 2158,
+    "StatisticId": 127
+  },
+  {
+    "PlayerId": 2114,
+    "StatisticId": 128
+  },
+  {
+    "PlayerId": 5728,
+    "StatisticId": 129
+  },
+  {
+    "PlayerId": 5856,
+    "StatisticId": 130
+  },
+  {
+    "PlayerId": 5973,
+    "StatisticId": 131
+  },
+  {
+    "PlayerId": 8839,
+    "StatisticId": 132
+  },
+  {
+    "PlayerId": 8866,
+    "StatisticId": 133
+  },
+  {
+    "PlayerId": 8886,
+    "StatisticId": 134
+  },
+  {
+    "PlayerId": 9047,
+    "StatisticId": 135
+  },
+  {
+    "PlayerId": 5858,
+    "StatisticId": 136
+  },
+  {
+    "PlayerId": 6168,
+    "StatisticId": 137
+  },
+  {
+    "PlayerId": 5875,
+    "StatisticId": 138
+  },
+  {
+    "PlayerId": 5750,
+    "StatisticId": 139
+  },
+  {
+    "PlayerId": 7876,
+    "StatisticId": 140
+  },
+  {
+    "PlayerId": 7968,
+    "StatisticId": 141
+  },
+  {
+    "PlayerId": 8041,
+    "StatisticId": 142
+  },
+  {
+    "PlayerId": 8162,
+    "StatisticId": 143
+  },
+  {
+    "PlayerId": 9554,
+    "StatisticId": 144
+  },
+  {
+    "PlayerId": 2514,
+    "StatisticId": 145
+  },
+  {
+    "PlayerId": 3924,
+    "StatisticId": 146
+  },
+  {
+    "PlayerId": 4263,
+    "StatisticId": 147
+  },
+  {
+    "PlayerId": 10272,
+    "StatisticId": 148
+  },
+  {
+    "PlayerId": 10077,
+    "StatisticId": 149
+  },
+  {
+    "PlayerId": 4074,
+    "StatisticId": 150
+  },
+  {
+    "PlayerId": 4199,
+    "StatisticId": 151
+  },
+  {
+    "PlayerId": 7750,
+    "StatisticId": 152
+  },
+  {
+    "PlayerId": 7752,
+    "StatisticId": 153
+  },
+  {
+    "PlayerId": 8872,
+    "StatisticId": 154
+  },
+  {
+    "PlayerId": 9037,
+    "StatisticId": 155
+  },
+  {
+    "PlayerId": 4566,
+    "StatisticId": 156
+  },
+  {
+    "PlayerId": 5394,
+    "StatisticId": 157
+  },
+  {
+    "PlayerId": 2444,
+    "StatisticId": 158
+  },
+  {
+    "PlayerId": 9077,
+    "StatisticId": 159
+  },
+  {
+    "PlayerId": 9158,
+    "StatisticId": 160
+  },
+  {
+    "PlayerId": 3194,
+    "StatisticId": 161
+  },
+  {
+    "PlayerId": 6046,
+    "StatisticId": 162
+  },
+  {
+    "PlayerId": 3566,
+    "StatisticId": 163
+  },
+  {
+    "PlayerId": 8584,
+    "StatisticId": 164
+  },
+  {
+    "PlayerId": 6893,
+    "StatisticId": 165
+  },
+  {
+    "PlayerId": 6475,
+    "StatisticId": 166
+  },
+  {
+    "PlayerId": 3228,
+    "StatisticId": 167
+  },
+  {
+    "PlayerId": 1819,
+    "StatisticId": 168
+  },
+  {
+    "PlayerId": 6266,
+    "StatisticId": 169
+  },
+  {
+    "PlayerId": 11046,
+    "StatisticId": 170
+  },
+  {
+    "PlayerId": 2589,
+    "StatisticId": 171
+  },
+  {
+    "PlayerId": 6489,
+    "StatisticId": 172
+  },
+  {
+    "PlayerId": 10987,
+    "StatisticId": 173
+  },
+  {
+    "PlayerId": 5232,
+    "StatisticId": 174
+  },
+  {
+    "PlayerId": 8025,
+    "StatisticId": 175
+  },
+  {
+    "PlayerId": 6015,
+    "StatisticId": 176
+  },
+  {
+    "PlayerId": 1407,
+    "StatisticId": 177
+  },
+  {
+    "PlayerId": 5993,
+    "StatisticId": 178
+  },
+  {
+    "PlayerId": 4257,
+    "StatisticId": 179
+  },
+  {
+    "PlayerId": 7110,
+    "StatisticId": 180
+  },
+  {
+    "PlayerId": 5448,
+    "StatisticId": 181
+  },
+  {
+    "PlayerId": 10940,
+    "StatisticId": 182
+  },
+  {
+    "PlayerId": 10970,
+    "StatisticId": 183
+  },
+  {
+    "PlayerId": 10868,
+    "StatisticId": 184
+  },
+  {
+    "PlayerId": 11272,
+    "StatisticId": 185
+  },
+  {
+    "PlayerId": 10851,
+    "StatisticId": 186
+  },
+  {
+    "PlayerId": 5297,
+    "StatisticId": 187
+  },
+  {
+    "PlayerId": 5387,
+    "StatisticId": 188
+  },
+  {
+    "PlayerId": 5594,
+    "StatisticId": 189
+  },
+  {
+    "PlayerId": 5313,
+    "StatisticId": 190
+  },
+  {
+    "PlayerId": 5462,
+    "StatisticId": 191
+  },
+  {
+    "PlayerId": 364,
+    "StatisticId": 192
+  },
+  {
+    "PlayerId": 449,
+    "StatisticId": 193
+  },
+  {
+    "PlayerId": 504,
+    "StatisticId": 194
+  },
+  {
+    "PlayerId": 573,
+    "StatisticId": 195
+  },
+  {
+    "PlayerId": 722,
+    "StatisticId": 196
+  },
+  {
+    "PlayerId": 1849,
+    "StatisticId": 197
+  },
+  {
+    "PlayerId": 8139,
+    "StatisticId": 198
+  },
+  {
+    "PlayerId": 577,
+    "StatisticId": 199
+  },
+  {
+    "PlayerId": 731,
+    "StatisticId": 200
+  },
+  {
+    "PlayerId": 11147,
+    "StatisticId": 201
+  },
+  {
+    "PlayerId": 7842,
+    "StatisticId": 202
+  },
+  {
+    "PlayerId": 5953,
+    "StatisticId": 203
+  },
+  {
+    "PlayerId": 5824,
+    "StatisticId": 204
+  },
+  {
+    "PlayerId": 8060,
+    "StatisticId": 205
+  },
+  {
+    "PlayerId": 7894,
+    "StatisticId": 206
+  },
+  {
+    "PlayerId": 2138,
+    "StatisticId": 207
+  },
+  {
+    "PlayerId": 2110,
+    "StatisticId": 208
+  },
+  {
+    "PlayerId": 8962,
+    "StatisticId": 209
+  },
+  {
+    "PlayerId": 6284,
+    "StatisticId": 210
+  },
+  {
+    "PlayerId": 2311,
+    "StatisticId": 211
+  },
+  {
+    "PlayerId": 2810,
+    "StatisticId": 212
+  },
+  {
+    "PlayerId": 2308,
+    "StatisticId": 213
+  },
+  {
+    "PlayerId": 4375,
+    "StatisticId": 214
+  },
+  {
+    "PlayerId": 2271,
+    "StatisticId": 215
+  },
+  {
+    "PlayerId": 2869,
+    "StatisticId": 216
+  },
+  {
+    "PlayerId": 7604,
+    "StatisticId": 217
+  },
+  {
+    "PlayerId": 4392,
+    "StatisticId": 218
+  },
+  {
+    "PlayerId": 7510,
+    "StatisticId": 219
+  },
+  {
+    "PlayerId": 8200,
+    "StatisticId": 220
+  },
+  {
+    "PlayerId": 7875,
+    "StatisticId": 221
+  },
+  {
+    "PlayerId": 6303,
+    "StatisticId": 222
+  },
+  {
+    "PlayerId": 8842,
+    "StatisticId": 223
+  },
+  {
+    "PlayerId": 9028,
+    "StatisticId": 224
+  },
+  {
+    "PlayerId": 9150,
+    "StatisticId": 225
+  },
+  {
+    "PlayerId": 9009,
+    "StatisticId": 226
+  },
+  {
+    "PlayerId": 11191,
+    "StatisticId": 227
+  },
+  {
+    "PlayerId": 11148,
+    "StatisticId": 228
+  },
+  {
+    "PlayerId": 10916,
+    "StatisticId": 229
+  },
+  {
+    "PlayerId": 10877,
+    "StatisticId": 230
+  },
+  {
+    "PlayerId": 4116,
+    "StatisticId": 231
+  },
+  {
+    "PlayerId": 4117,
+    "StatisticId": 232
+  },
+  {
+    "PlayerId": 4189,
+    "StatisticId": 233
+  },
+  {
+    "PlayerId": 4234,
+    "StatisticId": 234
+  },
+  {
+    "PlayerId": 6201,
+    "StatisticId": 235
+  },
+  {
+    "PlayerId": 5731,
+    "StatisticId": 236
+  },
+  {
+    "PlayerId": 5719,
+    "StatisticId": 237
+  },
+  {
+    "PlayerId": 5665,
+    "StatisticId": 238
+  },
+  {
+    "PlayerId": 5876,
+    "StatisticId": 239
+  },
+  {
+    "PlayerId": 5691,
+    "StatisticId": 240
+  },
+  {
+    "PlayerId": 5788,
+    "StatisticId": 241
+  },
+  {
+    "PlayerId": 5848,
+    "StatisticId": 242
+  },
+  {
+    "PlayerId": 5985,
+    "StatisticId": 243
+  },
+  {
+    "PlayerId": 6237,
+    "StatisticId": 244
+  },
+  {
+    "PlayerId": 5743,
+    "StatisticId": 245
+  },
+  {
+    "PlayerId": 5959,
+    "StatisticId": 246
+  },
+  {
+    "PlayerId": 6250,
+    "StatisticId": 247
+  },
+  {
+    "PlayerId": 6220,
+    "StatisticId": 248
+  },
+  {
+    "PlayerId": 5931,
+    "StatisticId": 249
+  },
+  {
+    "PlayerId": 10837,
+    "StatisticId": 250
+  },
+  {
+    "PlayerId": 10904,
+    "StatisticId": 251
+  },
+  {
+    "PlayerId": 10915,
+    "StatisticId": 252
+  },
+  {
+    "PlayerId": 11238,
+    "StatisticId": 253
+  },
+  {
+    "PlayerId": 11236,
+    "StatisticId": 254
+  },
+  {
+    "PlayerId": 11365,
+    "StatisticId": 255
+  },
+  {
+    "PlayerId": 11192,
+    "StatisticId": 256
+  },
+  {
+    "PlayerId": 11292,
+    "StatisticId": 257
+  },
+  {
+    "PlayerId": 11230,
+    "StatisticId": 258
+  },
+  {
+    "PlayerId": 11247,
+    "StatisticId": 259
+  },
+  {
+    "PlayerId": 11013,
+    "StatisticId": 260
+  },
+  {
+    "PlayerId": 10853,
+    "StatisticId": 261
+  },
+  {
+    "PlayerId": 11261,
+    "StatisticId": 262
+  },
+  {
+    "PlayerId": 11377,
+    "StatisticId": 263
+  },
+  {
+    "PlayerId": 10834,
+    "StatisticId": 264
+  },
+  {
+    "PlayerId": 1694,
+    "StatisticId": 265
+  },
+  {
+    "PlayerId": 1737,
+    "StatisticId": 266
+  },
+  {
+    "PlayerId": 1750,
+    "StatisticId": 267
+  },
+  {
+    "PlayerId": 1761,
+    "StatisticId": 268
+  },
+  {
+    "PlayerId": 1770,
+    "StatisticId": 269
+  },
+  {
+    "PlayerId": 1784,
+    "StatisticId": 270
+  },
+  {
+    "PlayerId": 1779,
+    "StatisticId": 271
+  },
+  {
+    "PlayerId": 1833,
+    "StatisticId": 272
+  },
+  {
+    "PlayerId": 1839,
+    "StatisticId": 273
+  },
+  {
+    "PlayerId": 1846,
+    "StatisticId": 274
+  },
+  {
+    "PlayerId": 1909,
+    "StatisticId": 275
+  },
+  {
+    "PlayerId": 1918,
+    "StatisticId": 276
+  },
+  {
+    "PlayerId": 1921,
+    "StatisticId": 277
+  },
+  {
+    "PlayerId": 1932,
+    "StatisticId": 278
+  },
+  {
+    "PlayerId": 2004,
+    "StatisticId": 279
+  },
+  {
+    "PlayerId": 3655,
+    "StatisticId": 280
+  },
+  {
+    "PlayerId": 9818,
+    "StatisticId": 281
+  },
+  {
+    "PlayerId": 427,
+    "StatisticId": 282
+  },
+  {
+    "PlayerId": 10323,
+    "StatisticId": 283
+  },
+  {
+    "PlayerId": 10273,
+    "StatisticId": 284
+  },
+  {
+    "PlayerId": 10294,
+    "StatisticId": 285
+  },
+  {
+    "PlayerId": 7773,
+    "StatisticId": 286
+  },
+  {
+    "PlayerId": 8117,
+    "StatisticId": 287
+  },
+  {
+    "PlayerId": 11329,
+    "StatisticId": 288
+  },
+  {
+    "PlayerId": 11265,
+    "StatisticId": 289
+  },
+  {
+    "PlayerId": 6692,
+    "StatisticId": 290
+  },
+  {
+    "PlayerId": 6792,
+    "StatisticId": 291
+  },
+  {
+    "PlayerId": 3967,
+    "StatisticId": 292
+  },
+  {
+    "PlayerId": 3946,
+    "StatisticId": 293
+  },
+  {
+    "PlayerId": 3882,
+    "StatisticId": 294
+  },
+  {
+    "PlayerId": 11168,
+    "StatisticId": 295
+  },
+  {
+    "PlayerId": 11333,
+    "StatisticId": 296
+  },
+  {
+    "PlayerId": 11271,
+    "StatisticId": 297
+  },
+  {
+    "PlayerId": 4093,
+    "StatisticId": 298
+  },
+  {
+    "PlayerId": 4115,
+    "StatisticId": 299
+  },
+  {
+    "PlayerId": 4152,
+    "StatisticId": 300
+  },
+  {
+    "PlayerId": 2977,
+    "StatisticId": 301
+  },
+  {
+    "PlayerId": 2989,
+    "StatisticId": 302
+  },
+  {
+    "PlayerId": 2985,
+    "StatisticId": 303
+  },
+  {
+    "PlayerId": 2979,
+    "StatisticId": 304
+  },
+  {
+    "PlayerId": 8605,
+    "StatisticId": 305
+  },
+  {
+    "PlayerId": 8736,
+    "StatisticId": 306
+  },
+  {
+    "PlayerId": 8670,
+    "StatisticId": 307
+  },
+  {
+    "PlayerId": 8803,
+    "StatisticId": 308
+  },
+  {
+    "PlayerId": 5545,
+    "StatisticId": 309
+  },
+  {
+    "PlayerId": 5415,
+    "StatisticId": 310
+  },
+  {
+    "PlayerId": 5369,
+    "StatisticId": 311
+  },
+  {
+    "PlayerId": 5475,
+    "StatisticId": 312
+  },
+  {
+    "PlayerId": 5981,
+    "StatisticId": 313
+  },
+  {
+    "PlayerId": 6880,
+    "StatisticId": 314
+  },
+  {
+    "PlayerId": 795,
+    "StatisticId": 315
+  },
+  {
+    "PlayerId": 1095,
+    "StatisticId": 316
+  },
+  {
+    "PlayerId": 3132,
+    "StatisticId": 317
+  },
+  {
+    "PlayerId": 9563,
+    "StatisticId": 318
+  },
+  {
+    "PlayerId": 1657,
+    "StatisticId": 319
+  },
+  {
+    "PlayerId": 5299,
+    "StatisticId": 320
+  },
+  {
+    "PlayerId": 7837,
+    "StatisticId": 321
+  },
+  {
+    "PlayerId": 7932,
+    "StatisticId": 322
+  },
+  {
+    "PlayerId": 8862,
+    "StatisticId": 323
+  },
+  {
+    "PlayerId": 8880,
+    "StatisticId": 324
+  },
+  {
+    "PlayerId": 10728,
+    "StatisticId": 325
+  },
+  {
+    "PlayerId": 10763,
+    "StatisticId": 326
+  },
+  {
+    "PlayerId": 8082,
+    "StatisticId": 327
+  },
+  {
+    "PlayerId": 8072,
+    "StatisticId": 328
+  },
+  {
+    "PlayerId": 11135,
+    "StatisticId": 329
+  },
+  {
+    "PlayerId": 11404,
+    "StatisticId": 330
+  },
+  {
+    "PlayerId": 8950,
+    "StatisticId": 331
+  },
+  {
+    "PlayerId": 8946,
+    "StatisticId": 332
+  },
+  {
+    "PlayerId": 1367,
+    "StatisticId": 333
+  },
+  {
+    "PlayerId": 5791,
+    "StatisticId": 334
+  },
+  {
+    "PlayerId": 779,
+    "StatisticId": 335
+  },
+  {
+    "PlayerId": 11225,
+    "StatisticId": 336
+  },
+  {
+    "PlayerId": 9586,
+    "StatisticId": 337
+  },
+  {
+    "PlayerId": 6195,
+    "StatisticId": 338
+  },
+  {
+    "PlayerId": 9090,
+    "StatisticId": 339
+  },
+  {
+    "PlayerId": 8978,
+    "StatisticId": 340
+  },
+  {
+    "PlayerId": 11240,
+    "StatisticId": 341
+  },
+  {
+    "PlayerId": 4082,
+    "StatisticId": 342
+  },
+  {
+    "PlayerId": 4296,
+    "StatisticId": 343
+  },
+  {
+    "PlayerId": 1507,
+    "StatisticId": 344
+  },
+  {
+    "PlayerId": 578,
+    "StatisticId": 345
+  },
+  {
+    "PlayerId": 1857,
+    "StatisticId": 346
+  },
+  {
+    "PlayerId": 11359,
+    "StatisticId": 347
+  },
+  {
+    "PlayerId": 11095,
+    "StatisticId": 348
+  },
+  {
+    "PlayerId": 9713,
+    "StatisticId": 349
+  },
+  {
+    "PlayerId": 11120,
+    "StatisticId": 350
+  },
+  {
+    "PlayerId": 9001,
+    "StatisticId": 351
+  },
+  {
+    "PlayerId": 7595,
+    "StatisticId": 352
+  },
+  {
+    "PlayerId": 8636,
+    "StatisticId": 353
+  },
+  {
+    "PlayerId": 2351,
+    "StatisticId": 354
+  },
+  {
+    "PlayerId": 9397,
+    "StatisticId": 355
+  },
+  {
+    "PlayerId": 8729,
+    "StatisticId": 356
+  },
+  {
+    "PlayerId": 3356,
+    "StatisticId": 357
+  },
+  {
+    "PlayerId": 4353,
+    "StatisticId": 358
+  },
+  {
+    "PlayerId": 1216,
+    "StatisticId": 359
+  },
+  {
+    "PlayerId": 4325,
+    "StatisticId": 360
+  },
+  {
+    "PlayerId": 11459,
+    "StatisticId": 361
+  },
+  {
+    "PlayerId": 2129,
+    "StatisticId": 362
+  },
+  {
+    "PlayerId": 10639,
+    "StatisticId": 363
+  },
+  {
+    "PlayerId": 5669,
+    "StatisticId": 364
+  },
+  {
+    "PlayerId": 1700,
+    "StatisticId": 365
+  },
+  {
+    "PlayerId": 5261,
+    "StatisticId": 366
+  },
+  {
+    "PlayerId": 2107,
+    "StatisticId": 367
+  },
+  {
+    "PlayerId": 6530,
+    "StatisticId": 368
+  },
+  {
+    "PlayerId": 6528,
+    "StatisticId": 369
+  },
+  {
+    "PlayerId": 6520,
+    "StatisticId": 370
+  },
+  {
+    "PlayerId": 6527,
+    "StatisticId": 371
+  },
+  {
+    "PlayerId": 9178,
+    "StatisticId": 372
+  },
+  {
+    "PlayerId": 8952,
+    "StatisticId": 373
+  },
+  {
+    "PlayerId": 9064,
+    "StatisticId": 374
+  },
+  {
+    "PlayerId": 9103,
+    "StatisticId": 375
+  },
+  {
+    "PlayerId": 9378,
+    "StatisticId": 376
+  },
+  {
+    "PlayerId": 9395,
+    "StatisticId": 377
+  },
+  {
+    "PlayerId": 9424,
+    "StatisticId": 378
+  },
+  {
+    "PlayerId": 9436,
+    "StatisticId": 379
+  },
+  {
+    "PlayerId": 11457,
+    "StatisticId": 380
+  },
+  {
+    "PlayerId": 11029,
+    "StatisticId": 381
+  },
+  {
+    "PlayerId": 11274,
+    "StatisticId": 382
+  },
+  {
+    "PlayerId": 10964,
+    "StatisticId": 383
+  },
+  {
+    "PlayerId": 8988,
+    "StatisticId": 384
+  },
+  {
+    "PlayerId": 9010,
+    "StatisticId": 385
+  },
+  {
+    "PlayerId": 8913,
+    "StatisticId": 386
+  },
+  {
+    "PlayerId": 8914,
+    "StatisticId": 387
+  },
+  {
+    "PlayerId": 8140,
+    "StatisticId": 388
+  },
+  {
+    "PlayerId": 7981,
+    "StatisticId": 389
+  },
+  {
+    "PlayerId": 8084,
+    "StatisticId": 390
+  },
+  {
+    "PlayerId": 7992,
+    "StatisticId": 391
+  },
+  {
+    "PlayerId": 5750,
+    "StatisticId": 392
+  },
+  {
+    "PlayerId": 8041,
+    "StatisticId": 393
+  },
+  {
+    "PlayerId": 9047,
+    "StatisticId": 394
+  },
+  {
+    "PlayerId": 9552,
+    "StatisticId": 395
+  },
+  {
+    "PlayerId": 7073,
+    "StatisticId": 396
+  },
+  {
+    "PlayerId": 398,
+    "StatisticId": 397
+  },
+  {
+    "PlayerId": 7264,
+    "StatisticId": 398
+  },
+  {
+    "PlayerId": 10333,
+    "StatisticId": 399
+  },
+  {
+    "PlayerId": 7228,
+    "StatisticId": 400
+  },
+  {
+    "PlayerId": 8024,
+    "StatisticId": 401
+  },
+  {
+    "PlayerId": 8044,
+    "StatisticId": 402
+  },
+  {
+    "PlayerId": 10902,
+    "StatisticId": 403
+  },
+  {
+    "PlayerId": 11063,
+    "StatisticId": 404
+  },
+  {
+    "PlayerId": 3687,
+    "StatisticId": 405
+  },
+  {
+    "PlayerId": 3863,
+    "StatisticId": 406
+  },
+  {
+    "PlayerId": 3946,
+    "StatisticId": 407
+  },
+  {
+    "PlayerId": 3967,
+    "StatisticId": 408
+  },
+  {
+    "PlayerId": 4093,
+    "StatisticId": 409
+  },
+  {
+    "PlayerId": 8765,
+    "StatisticId": 410
+  },
+  {
+    "PlayerId": 8694,
+    "StatisticId": 411
+  },
+  {
+    "PlayerId": 8693,
+    "StatisticId": 412
+  },
+  {
+    "PlayerId": 8618,
+    "StatisticId": 413
+  },
+  {
+    "PlayerId": 5467,
+    "StatisticId": 414
+  },
+  {
+    "PlayerId": 5542,
+    "StatisticId": 415
+  },
+  {
+    "PlayerId": 5248,
+    "StatisticId": 416
+  },
+  {
+    "PlayerId": 5320,
+    "StatisticId": 417
+  },
+  {
+    "PlayerId": 4742,
+    "StatisticId": 418
+  },
+  {
+    "PlayerId": 4740,
+    "StatisticId": 419
+  },
+  {
+    "PlayerId": 4627,
+    "StatisticId": 420
+  },
+  {
+    "PlayerId": 4635,
+    "StatisticId": 421
+  },
+  {
+    "PlayerId": 3540,
+    "StatisticId": 422
+  },
+  {
+    "PlayerId": 3936,
+    "StatisticId": 423
+  },
+  {
+    "PlayerId": 11488,
+    "StatisticId": 424
+  },
+  {
+    "PlayerId": 4756,
+    "StatisticId": 425
+  },
+  {
+    "PlayerId": 5680,
+    "StatisticId": 426
+  },
+  {
+    "PlayerId": 845,
+    "StatisticId": 427
+  },
+  {
+    "PlayerId": 7239,
+    "StatisticId": 428
+  },
+  {
+    "PlayerId": 9141,
+    "StatisticId": 429
+  },
+  {
+    "PlayerId": 3185,
+    "StatisticId": 430
+  },
+  {
+    "PlayerId": 3140,
+    "StatisticId": 431
+  },
+  {
+    "PlayerId": 7040,
+    "StatisticId": 432
+  },
+  {
+    "PlayerId": 7212,
+    "StatisticId": 433
+  },
+  {
+    "PlayerId": 7904,
+    "StatisticId": 434
+  },
+  {
+    "PlayerId": 8122,
+    "StatisticId": 435
+  },
+  {
+    "PlayerId": 740,
+    "StatisticId": 436
+  },
+  {
+    "PlayerId": 465,
+    "StatisticId": 437
+  },
+  {
+    "PlayerId": 478,
+    "StatisticId": 438
+  },
+  {
+    "PlayerId": 652,
+    "StatisticId": 439
+  },
+  {
+    "PlayerId": 9253,
+    "StatisticId": 440
+  },
+  {
+    "PlayerId": 9268,
+    "StatisticId": 441
+  },
+  {
+    "PlayerId": 9277,
+    "StatisticId": 442
+  },
+  {
+    "PlayerId": 9194,
+    "StatisticId": 443
+  },
+  {
+    "PlayerId": 5290,
+    "StatisticId": 444
+  },
+  {
+    "PlayerId": 5584,
+    "StatisticId": 445
+  },
+  {
+    "PlayerId": 5431,
+    "StatisticId": 446
+  },
+  {
+    "PlayerId": 5343,
+    "StatisticId": 447
+  },
+  {
+    "PlayerId": 7285,
+    "StatisticId": 448
+  },
+  {
+    "PlayerId": 7286,
+    "StatisticId": 449
+  },
+  {
+    "PlayerId": 7148,
+    "StatisticId": 450
+  },
+  {
+    "PlayerId": 7213,
+    "StatisticId": 451
+  },
+  {
+    "PlayerId": 4138,
+    "StatisticId": 452
+  },
+  {
+    "PlayerId": 4198,
+    "StatisticId": 453
+  },
+  {
+    "PlayerId": 4015,
+    "StatisticId": 454
+  },
+  {
+    "PlayerId": 4016,
+    "StatisticId": 455
+  },
+  {
+    "PlayerId": 439,
+    "StatisticId": 456
+  },
+  {
+    "PlayerId": 308,
+    "StatisticId": 457
+  },
+  {
+    "PlayerId": 372,
+    "StatisticId": 458
+  },
+  {
+    "PlayerId": 541,
+    "StatisticId": 459
+  },
+  {
+    "PlayerId": 9199,
+    "StatisticId": 460
+  },
+  {
+    "PlayerId": 9259,
+    "StatisticId": 461
+  },
+  {
+    "PlayerId": 7438,
+    "StatisticId": 462
+  },
+  {
+    "PlayerId": 7343,
+    "StatisticId": 463
+  },
+  {
+    "PlayerId": 7058,
+    "StatisticId": 464
+  },
+  {
+    "PlayerId": 7176,
+    "StatisticId": 465
+  },
+  {
+    "PlayerId": 706,
+    "StatisticId": 466
+  },
+  {
+    "PlayerId": 599,
+    "StatisticId": 467
+  },
+  {
+    "PlayerId": 644,
+    "StatisticId": 468
+  },
+  {
+    "PlayerId": 576,
+    "StatisticId": 469
+  },
+  {
+    "PlayerId": 7097,
+    "StatisticId": 470
+  },
+  {
+    "PlayerId": 7048,
+    "StatisticId": 471
+  },
+  {
+    "PlayerId": 7076,
+    "StatisticId": 472
+  },
+  {
+    "PlayerId": 7144,
+    "StatisticId": 473
+  },
+  {
+    "PlayerId": 4980,
+    "StatisticId": 474
+  },
+  {
+    "PlayerId": 4994,
+    "StatisticId": 475
+  },
+  {
+    "PlayerId": 4993,
+    "StatisticId": 476
+  },
+  {
+    "PlayerId": 5025,
+    "StatisticId": 477
+  },
+  {
+    "PlayerId": 8123,
+    "StatisticId": 478
+  },
+  {
+    "PlayerId": 7772,
+    "StatisticId": 479
+  },
+  {
+    "PlayerId": 7777,
+    "StatisticId": 480
+  },
+  {
+    "PlayerId": 7919,
+    "StatisticId": 481
+  },
+  {
+    "PlayerId": 8431,
+    "StatisticId": 482
+  },
+  {
+    "PlayerId": 8291,
+    "StatisticId": 483
+  },
+  {
+    "PlayerId": 8382,
+    "StatisticId": 484
+  },
+  {
+    "PlayerId": 8414,
+    "StatisticId": 485
+  },
+  {
+    "PlayerId": 585,
+    "StatisticId": 486
+  },
+  {
+    "PlayerId": 498,
+    "StatisticId": 487
+  },
+  {
+    "PlayerId": 724,
+    "StatisticId": 488
+  },
+  {
+    "PlayerId": 385,
+    "StatisticId": 489
+  },
+  {
+    "PlayerId": 3081,
+    "StatisticId": 490
+  },
+  {
+    "PlayerId": 3057,
+    "StatisticId": 491
+  },
+  {
+    "PlayerId": 3062,
+    "StatisticId": 492
+  },
+  {
+    "PlayerId": 3076,
+    "StatisticId": 493
+  },
+  {
+    "PlayerId": 3078,
+    "StatisticId": 494
+  },
+  {
+    "PlayerId": 3054,
+    "StatisticId": 495
+  },
+  {
+    "PlayerId": 3066,
+    "StatisticId": 496
+  },
+  {
+    "PlayerId": 3053,
+    "StatisticId": 497
+  },
+  {
+    "PlayerId": 3077,
+    "StatisticId": 498
+  },
+  {
+    "PlayerId": 3082,
+    "StatisticId": 499
+  },
+  {
+    "PlayerId": 3068,
+    "StatisticId": 500
+  },
+  {
+    "PlayerId": 3060,
+    "StatisticId": 501
+  },
+  {
+    "PlayerId": 3052,
+    "StatisticId": 502
+  },
+  {
+    "PlayerId": 7505,
+    "StatisticId": 503
+  },
+  {
+    "PlayerId": 7506,
+    "StatisticId": 504
+  },
+  {
+    "PlayerId": 7507,
+    "StatisticId": 505
+  },
+  {
+    "PlayerId": 7430,
+    "StatisticId": 506
+  },
+  {
+    "PlayerId": 7431,
+    "StatisticId": 507
+  },
+  {
+    "PlayerId": 7301,
+    "StatisticId": 508
+  },
+  {
+    "PlayerId": 7332,
+    "StatisticId": 509
+  },
+  {
+    "PlayerId": 7334,
+    "StatisticId": 510
+  },
+  {
+    "PlayerId": 7396,
+    "StatisticId": 511
+  },
+  {
+    "PlayerId": 7413,
+    "StatisticId": 512
+  },
+  {
+    "PlayerId": 7421,
+    "StatisticId": 513
+  },
+  {
+    "PlayerId": 7423,
+    "StatisticId": 514
+  },
+  {
+    "PlayerId": 7427,
+    "StatisticId": 515
+  },
+  {
+    "PlayerId": 95,
+    "StatisticId": 516
+  },
+  {
+    "PlayerId": 105,
+    "StatisticId": 517
+  },
+  {
+    "PlayerId": 139,
+    "StatisticId": 518
+  },
+  {
+    "PlayerId": 211,
+    "StatisticId": 519
+  },
+  {
+    "PlayerId": 144,
+    "StatisticId": 520
+  },
+  {
+    "PlayerId": 230,
+    "StatisticId": 521
+  },
+  {
+    "PlayerId": 159,
+    "StatisticId": 522
+  },
+  {
+    "PlayerId": 188,
+    "StatisticId": 523
+  },
+  {
+    "PlayerId": 200,
+    "StatisticId": 524
+  },
+  {
+    "PlayerId": 128,
+    "StatisticId": 525
+  },
+  {
+    "PlayerId": 196,
+    "StatisticId": 526
+  },
+  {
+    "PlayerId": 245,
+    "StatisticId": 527
+  },
+  {
+    "PlayerId": 171,
+    "StatisticId": 528
+  },
+  {
+    "PlayerId": 4708,
+    "StatisticId": 529
+  },
+  {
+    "PlayerId": 5782,
+    "StatisticId": 530
+  },
+  {
+    "PlayerId": 5270,
+    "StatisticId": 531
+  },
+  {
+    "PlayerId": 4296,
+    "StatisticId": 532
+  },
+  {
+    "PlayerId": 4082,
+    "StatisticId": 533
+  },
+  {
+    "PlayerId": 4174,
+    "StatisticId": 534
+  },
+  {
+    "PlayerId": 4140,
+    "StatisticId": 535
+  },
+  {
+    "PlayerId": 4284,
+    "StatisticId": 536
+  },
+  {
+    "PlayerId": 9090,
+    "StatisticId": 537
+  },
+  {
+    "PlayerId": 9156,
+    "StatisticId": 538
+  },
+  {
+    "PlayerId": 8918,
+    "StatisticId": 539
+  },
+  {
+    "PlayerId": 8896,
+    "StatisticId": 540
+  },
+  {
+    "PlayerId": 8991,
+    "StatisticId": 541
+  },
+  {
+    "PlayerId": 9019,
+    "StatisticId": 542
+  },
+  {
+    "PlayerId": 773,
+    "StatisticId": 543
+  },
+  {
+    "PlayerId": 504,
+    "StatisticId": 544
+  },
+  {
+    "PlayerId": 449,
+    "StatisticId": 545
+  },
+  {
+    "PlayerId": 489,
+    "StatisticId": 546
+  },
+  {
+    "PlayerId": 364,
+    "StatisticId": 547
+  },
+  {
+    "PlayerId": 602,
+    "StatisticId": 548
+  },
+  {
+    "PlayerId": 11147,
+    "StatisticId": 549
+  },
+  {
+    "PlayerId": 11382,
+    "StatisticId": 550
+  },
+  {
+    "PlayerId": 3747,
+    "StatisticId": 551
+  },
+  {
+    "PlayerId": 731,
+    "StatisticId": 552
+  },
+  {
+    "PlayerId": 4575,
+    "StatisticId": 553
+  },
+  {
+    "PlayerId": 1888,
+    "StatisticId": 554
+  },
+  {
+    "PlayerId": 6026,
+    "StatisticId": 555
+  },
+  {
+    "PlayerId": 11414,
+    "StatisticId": 556
+  },
+  {
+    "PlayerId": 10966,
+    "StatisticId": 557
+  },
+  {
+    "PlayerId": 7956,
+    "StatisticId": 558
+  },
+  {
+    "PlayerId": 11573,
+    "StatisticId": 559
+  },
+  {
+    "PlayerId": 4906,
+    "StatisticId": 560
+  },
+  {
+    "PlayerId": 11148,
+    "StatisticId": 561
+  },
+  {
+    "PlayerId": 1255,
+    "StatisticId": 562
+  },
+  {
+    "PlayerId": 9028,
+    "StatisticId": 563
+  },
+  {
+    "PlayerId": 427,
+    "StatisticId": 564
+  },
+  {
+    "PlayerId": 4112,
+    "StatisticId": 565
+  },
+  {
+    "PlayerId": 3702,
+    "StatisticId": 566
+  },
+  {
+    "PlayerId": 8891,
+    "StatisticId": 567
+  },
+  {
+    "PlayerId": 9173,
+    "StatisticId": 568
+  },
+  {
+    "PlayerId": 8984,
+    "StatisticId": 569
+  },
+  {
+    "PlayerId": 9022,
+    "StatisticId": 570
+  },
+  {
+    "PlayerId": 3178,
+    "StatisticId": 571
+  },
+  {
+    "PlayerId": 3302,
+    "StatisticId": 572
+  },
+  {
+    "PlayerId": 3458,
+    "StatisticId": 573
+  },
+  {
+    "PlayerId": 3489,
+    "StatisticId": 574
+  },
+  {
+    "PlayerId": 5589,
+    "StatisticId": 575
+  },
+  {
+    "PlayerId": 5357,
+    "StatisticId": 576
+  },
+  {
+    "PlayerId": 5240,
+    "StatisticId": 577
+  },
+  {
+    "PlayerId": 5309,
+    "StatisticId": 578
+  },
+  {
+    "PlayerId": 6216,
+    "StatisticId": 579
+  },
+  {
+    "PlayerId": 8597,
+    "StatisticId": 580
+  },
+  {
+    "PlayerId": 8938,
+    "StatisticId": 581
+  },
+  {
+    "PlayerId": 8468,
+    "StatisticId": 582
+  },
+  {
+    "PlayerId": 5737,
+    "StatisticId": 583
+  },
+  {
+    "PlayerId": 3384,
+    "StatisticId": 584
+  },
+  {
+    "PlayerId": 1248,
+    "StatisticId": 585
+  },
+  {
+    "PlayerId": 3948,
+    "StatisticId": 586
+  },
+  {
+    "PlayerId": 5006,
+    "StatisticId": 587
+  },
+  {
+    "PlayerId": 5030,
+    "StatisticId": 588
+  },
+  {
+    "PlayerId": 3861,
+    "StatisticId": 589
+  },
+  {
+    "PlayerId": 3827,
+    "StatisticId": 590
+  },
+  {
+    "PlayerId": 5484,
+    "StatisticId": 591
+  },
+  {
+    "PlayerId": 5539,
+    "StatisticId": 592
+  },
+  {
+    "PlayerId": 5301,
+    "StatisticId": 593
+  },
+  {
+    "PlayerId": 5532,
+    "StatisticId": 594
+  },
+  {
+    "PlayerId": 3189,
+    "StatisticId": 595
+  },
+  {
+    "PlayerId": 3482,
+    "StatisticId": 596
+  },
+  {
+    "PlayerId": 7112,
+    "StatisticId": 597
+  },
+  {
+    "PlayerId": 7161,
+    "StatisticId": 598
+  },
+  {
+    "PlayerId": 2339,
+    "StatisticId": 599
+  },
+  {
+    "PlayerId": 2340,
+    "StatisticId": 600
+  },
+  {
+    "PlayerId": 9210,
+    "StatisticId": 601
+  },
+  {
+    "PlayerId": 9281,
+    "StatisticId": 602
+  },
+  {
+    "PlayerId": 2663,
+    "StatisticId": 603
+  },
+  {
+    "PlayerId": 2658,
+    "StatisticId": 604
+  },
+  {
+    "PlayerId": 7448,
+    "StatisticId": 605
+  },
+  {
+    "PlayerId": 7365,
+    "StatisticId": 606
+  },
+  {
+    "PlayerId": 9055,
+    "StatisticId": 607
+  },
+  {
+    "PlayerId": 9133,
+    "StatisticId": 608
+  },
+  {
+    "PlayerId": 1802,
+    "StatisticId": 609
+  },
+  {
+    "PlayerId": 1743,
+    "StatisticId": 610
+  },
+  {
+    "PlayerId": 2487,
+    "StatisticId": 611
+  },
+  {
+    "PlayerId": 2475,
+    "StatisticId": 612
+  },
+  {
+    "PlayerId": 4069,
+    "StatisticId": 613
+  },
+  {
+    "PlayerId": 9501,
+    "StatisticId": 614
+  },
+  {
+    "PlayerId": 10892,
+    "StatisticId": 615
+  },
+  {
+    "PlayerId": 9307,
+    "StatisticId": 616
+  },
+  {
+    "PlayerId": 10970,
+    "StatisticId": 617
+  },
+  {
+    "PlayerId": 364,
+    "StatisticId": 618
+  },
+  {
+    "PlayerId": 8978,
+    "StatisticId": 619
+  },
+  {
+    "PlayerId": 716,
+    "StatisticId": 620
+  },
+  {
+    "PlayerId": 7110,
+    "StatisticId": 621
+  },
+  {
+    "PlayerId": 3109,
+    "StatisticId": 622
+  },
+  {
+    "PlayerId": 10999,
+    "StatisticId": 623
+  },
+  {
+    "PlayerId": 5491,
+    "StatisticId": 624
+  },
+  {
+    "PlayerId": 10783,
+    "StatisticId": 625
+  },
+  {
+    "PlayerId": 8139,
+    "StatisticId": 626
+  },
+  {
+    "PlayerId": 11359,
+    "StatisticId": 627
+  },
+  {
+    "PlayerId": 11004,
+    "StatisticId": 628
+  },
+  {
+    "PlayerId": 8077,
+    "StatisticId": 629
+  },
+  {
+    "PlayerId": 8139,
+    "StatisticId": 630
+  },
+  {
+    "PlayerId": 7786,
+    "StatisticId": 631
+  },
+  {
+    "PlayerId": 8135,
+    "StatisticId": 632
+  },
+  {
+    "PlayerId": 7975,
+    "StatisticId": 633
+  },
+  {
+    "PlayerId": 7842,
+    "StatisticId": 634
+  },
+  {
+    "PlayerId": 11175,
+    "StatisticId": 635
+  },
+  {
+    "PlayerId": 11193,
+    "StatisticId": 636
+  },
+  {
+    "PlayerId": 11350,
+    "StatisticId": 637
+  },
+  {
+    "PlayerId": 11147,
+    "StatisticId": 638
+  },
+  {
+    "PlayerId": 11006,
+    "StatisticId": 639
+  },
+  {
+    "PlayerId": 11327,
+    "StatisticId": 640
+  },
+  {
+    "PlayerId": 725,
+    "StatisticId": 641
+  },
+  {
+    "PlayerId": 770,
+    "StatisticId": 642
+  },
+  {
+    "PlayerId": 609,
+    "StatisticId": 643
+  },
+  {
+    "PlayerId": 375,
+    "StatisticId": 644
+  },
+  {
+    "PlayerId": 467,
+    "StatisticId": 645
+  },
+  {
+    "PlayerId": 731,
+    "StatisticId": 646
+  },
+  {
+    "PlayerId": 601,
+    "StatisticId": 647
+  },
+  {
+    "PlayerId": 577,
+    "StatisticId": 648
+  },
+  {
+    "PlayerId": 7761,
+    "StatisticId": 649
+  },
+  {
+    "PlayerId": 7972,
+    "StatisticId": 650
+  },
+  {
+    "PlayerId": 5824,
+    "StatisticId": 651
+  },
+  {
+    "PlayerId": 8587,
+    "StatisticId": 652
+  },
+  {
+    "PlayerId": 9057,
+    "StatisticId": 653
+  },
+  {
+    "PlayerId": 5256,
+    "StatisticId": 654
+  },
+  {
+    "PlayerId": 3016,
+    "StatisticId": 655
+  },
+  {
+    "PlayerId": 10659,
+    "StatisticId": 656
+  },
+  {
+    "PlayerId": 10661,
+    "StatisticId": 657
+  },
+  {
+    "PlayerId": 8015,
+    "StatisticId": 658
+  },
+  {
+    "PlayerId": 7826,
+    "StatisticId": 659
+  },
+  {
+    "PlayerId": 8148,
+    "StatisticId": 660
+  },
+  {
+    "PlayerId": 7833,
+    "StatisticId": 661
+  },
+  {
+    "PlayerId": 6214,
+    "StatisticId": 662
+  },
+  {
+    "PlayerId": 5769,
+    "StatisticId": 663
+  },
+  {
+    "PlayerId": 2513,
+    "StatisticId": 664
+  },
+  {
+    "PlayerId": 9484,
+    "StatisticId": 665
+  },
+  {
+    "PlayerId": 3573,
+    "StatisticId": 666
+  },
+  {
+    "PlayerId": 7117,
+    "StatisticId": 667
+  },
+  {
+    "PlayerId": 4365,
+    "StatisticId": 668
+  },
+  {
+    "PlayerId": 2213,
+    "StatisticId": 669
+  },
+  {
+    "PlayerId": 4307,
+    "StatisticId": 670
+  },
+  {
+    "PlayerId": 2202,
+    "StatisticId": 671
+  },
+  {
+    "PlayerId": 7197,
+    "StatisticId": 672
+  },
+  {
+    "PlayerId": 5932,
+    "StatisticId": 673
+  },
+  {
+    "PlayerId": 5844,
+    "StatisticId": 674
+  },
+  {
+    "PlayerId": 6221,
+    "StatisticId": 675
+  },
+  {
+    "PlayerId": 6206,
+    "StatisticId": 676
+  },
+  {
+    "PlayerId": 8868,
+    "StatisticId": 677
+  },
+  {
+    "PlayerId": 8959,
+    "StatisticId": 678
+  },
+  {
+    "PlayerId": 9137,
+    "StatisticId": 679
+  },
+  {
+    "PlayerId": 8920,
+    "StatisticId": 680
+  },
+  {
+    "PlayerId": 8723,
+    "StatisticId": 681
+  },
+  {
+    "PlayerId": 8781,
+    "StatisticId": 682
+  },
+  {
+    "PlayerId": 8756,
+    "StatisticId": 683
+  },
+  {
+    "PlayerId": 8800,
+    "StatisticId": 684
+  },
+  {
+    "PlayerId": 2478,
+    "StatisticId": 685
+  },
+  {
+    "PlayerId": 3568,
+    "StatisticId": 686
+  },
+  {
+    "PlayerId": 3464,
+    "StatisticId": 687
+  },
+  {
+    "PlayerId": 8860,
+    "StatisticId": 688
+  },
+  {
+    "PlayerId": 6110,
+    "StatisticId": 689
+  },
+  {
+    "PlayerId": 2393,
+    "StatisticId": 690
+  },
+  {
+    "PlayerId": 3247,
+    "StatisticId": 691
+  },
+  {
+    "PlayerId": 887,
+    "StatisticId": 692
+  },
+  {
+    "PlayerId": 7307,
+    "StatisticId": 693
+  },
+  {
+    "PlayerId": 7308,
+    "StatisticId": 694
+  },
+  {
+    "PlayerId": 7313,
+    "StatisticId": 695
+  },
+  {
+    "PlayerId": 7395,
+    "StatisticId": 696
+  },
+  {
+    "PlayerId": 7407,
+    "StatisticId": 697
+  },
+  {
+    "PlayerId": 7409,
+    "StatisticId": 698
+  },
+  {
+    "PlayerId": 7426,
+    "StatisticId": 699
+  },
+  {
+    "PlayerId": 7515,
+    "StatisticId": 700
+  },
+  {
+    "PlayerId": 7519,
+    "StatisticId": 701
+  },
+  {
+    "PlayerId": 3646,
+    "StatisticId": 702
+  },
+  {
+    "PlayerId": 3716,
+    "StatisticId": 703
+  },
+  {
+    "PlayerId": 3718,
+    "StatisticId": 704
+  },
+  {
+    "PlayerId": 3823,
+    "StatisticId": 705
+  },
+  {
+    "PlayerId": 3868,
+    "StatisticId": 706
+  },
+  {
+    "PlayerId": 3881,
+    "StatisticId": 707
+  },
+  {
+    "PlayerId": 3883,
+    "StatisticId": 708
+  },
+  {
+    "PlayerId": 3963,
+    "StatisticId": 709
+  },
+  {
+    "PlayerId": 3859,
+    "StatisticId": 710
+  },
+  {
+    "PlayerId": 4040,
+    "StatisticId": 711
+  },
+  {
+    "PlayerId": 4080,
+    "StatisticId": 712
+  },
+  {
+    "PlayerId": 4098,
+    "StatisticId": 713
+  },
+  {
+    "PlayerId": 4103,
+    "StatisticId": 714
+  },
+  {
+    "PlayerId": 4110,
+    "StatisticId": 715
+  },
+  {
+    "PlayerId": 4124,
+    "StatisticId": 716
+  },
+  {
+    "PlayerId": 4291,
+    "StatisticId": 717
+  },
+  {
+    "PlayerId": 4295,
+    "StatisticId": 718
+  },
+  {
+    "PlayerId": 4387,
+    "StatisticId": 719
+  },
+  {
+    "PlayerId": 4442,
+    "StatisticId": 720
+  },
+  {
+    "PlayerId": 7605,
+    "StatisticId": 721
+  },
+  {
+    "PlayerId": 2321,
+    "StatisticId": 722
+  },
+  {
+    "PlayerId": 1767,
+    "StatisticId": 723
+  },
+  {
+    "PlayerId": 1772,
+    "StatisticId": 724
+  },
+  {
+    "PlayerId": 1818,
+    "StatisticId": 725
+  },
+  {
+    "PlayerId": 1851,
+    "StatisticId": 726
+  },
+  {
+    "PlayerId": 1899,
+    "StatisticId": 727
+  },
+  {
+    "PlayerId": 1916,
+    "StatisticId": 728
+  },
+  {
+    "PlayerId": 1926,
+    "StatisticId": 729
+  },
+  {
+    "PlayerId": 1927,
+    "StatisticId": 730
+  },
+  {
+    "PlayerId": 2001,
+    "StatisticId": 731
+  },
+  {
+    "PlayerId": 7346,
+    "StatisticId": 732
+  },
+  {
+    "PlayerId": 7364,
+    "StatisticId": 733
+  },
+  {
+    "PlayerId": 7365,
+    "StatisticId": 734
+  },
+  {
+    "PlayerId": 7304,
+    "StatisticId": 735
+  },
+  {
+    "PlayerId": 7448,
+    "StatisticId": 736
+  },
+  {
+    "PlayerId": 7465,
+    "StatisticId": 737
+  },
+  {
+    "PlayerId": 7474,
+    "StatisticId": 738
+  },
+  {
+    "PlayerId": 7480,
+    "StatisticId": 739
+  },
+  {
+    "PlayerId": 7367,
+    "StatisticId": 740
+  },
+  {
+    "PlayerId": 8125,
+    "StatisticId": 741
+  },
+  {
+    "PlayerId": 7809,
+    "StatisticId": 742
+  },
+  {
+    "PlayerId": 7840,
+    "StatisticId": 743
+  },
+  {
+    "PlayerId": 7851,
+    "StatisticId": 744
+  },
+  {
+    "PlayerId": 7925,
+    "StatisticId": 745
+  },
+  {
+    "PlayerId": 8019,
+    "StatisticId": 746
+  },
+  {
+    "PlayerId": 8022,
+    "StatisticId": 747
+  },
+  {
+    "PlayerId": 8052,
+    "StatisticId": 748
+  },
+  {
+    "PlayerId": 8112,
+    "StatisticId": 749
+  },
+  {
+    "PlayerId": 7499,
+    "StatisticId": 750
+  },
+  {
+    "PlayerId": 9078,
+    "StatisticId": 751
+  },
+  {
+    "PlayerId": 829,
+    "StatisticId": 752
+  },
+  {
+    "PlayerId": 8862,
+    "StatisticId": 753
+  },
+  {
+    "PlayerId": 8696,
+    "StatisticId": 754
+  },
+  {
+    "PlayerId": 8040,
+    "StatisticId": 755
+  },
+  {
+    "PlayerId": 9090,
+    "StatisticId": 756
+  },
+  {
+    "PlayerId": 11240,
+    "StatisticId": 757
+  },
+  {
+    "PlayerId": 4136,
+    "StatisticId": 758
+  },
+  {
+    "PlayerId": 8005,
+    "StatisticId": 759
+  },
+  {
+    "PlayerId": 4296,
+    "StatisticId": 760
+  },
+  {
+    "PlayerId": 10264,
+    "StatisticId": 761
+  },
+  {
+    "PlayerId": 577,
+    "StatisticId": 762
+  },
+  {
+    "PlayerId": 4575,
+    "StatisticId": 763
+  },
+  {
+    "PlayerId": 355,
+    "StatisticId": 764
+  },
+  {
+    "PlayerId": 9713,
+    "StatisticId": 765
+  },
+  {
+    "PlayerId": 11120,
+    "StatisticId": 766
+  },
+  {
+    "PlayerId": 11146,
+    "StatisticId": 767
+  },
+  {
+    "PlayerId": 7920,
+    "StatisticId": 768
+  },
+  {
+    "PlayerId": 7790,
+    "StatisticId": 769
+  },
+  {
+    "PlayerId": 3828,
+    "StatisticId": 770
+  },
+  {
+    "PlayerId": 2323,
+    "StatisticId": 771
+  },
+  {
+    "PlayerId": 2329,
+    "StatisticId": 772
+  },
+  {
+    "PlayerId": 2296,
+    "StatisticId": 773
+  },
+  {
+    "PlayerId": 2298,
+    "StatisticId": 774
+  },
+  {
+    "PlayerId": 7336,
+    "StatisticId": 775
+  },
+  {
+    "PlayerId": 7502,
+    "StatisticId": 776
+  },
+  {
+    "PlayerId": 8159,
+    "StatisticId": 777
+  },
+  {
+    "PlayerId": 7891,
+    "StatisticId": 778
+  },
+  {
+    "PlayerId": 4250,
+    "StatisticId": 779
+  },
+  {
+    "PlayerId": 10576,
+    "StatisticId": 780
+  },
+  {
+    "PlayerId": 5476,
+    "StatisticId": 781
+  },
+  {
+    "PlayerId": 5728,
+    "StatisticId": 782
+  },
+  {
+    "PlayerId": 8273,
+    "StatisticId": 783
+  },
+  {
+    "PlayerId": 8282,
+    "StatisticId": 784
+  },
+  {
+    "PlayerId": 8227,
+    "StatisticId": 785
+  },
+  {
+    "PlayerId": 8405,
+    "StatisticId": 786
+  },
+  {
+    "PlayerId": 8255,
+    "StatisticId": 787
+  },
+  {
+    "PlayerId": 8425,
+    "StatisticId": 788
+  },
+  {
+    "PlayerId": 8302,
+    "StatisticId": 789
+  },
+  {
+    "PlayerId": 2714,
+    "StatisticId": 790
+  },
+  {
+    "PlayerId": 2730,
+    "StatisticId": 791
+  },
+  {
+    "PlayerId": 2688,
+    "StatisticId": 792
+  },
+  {
+    "PlayerId": 2715,
+    "StatisticId": 793
+  },
+  {
+    "PlayerId": 2708,
+    "StatisticId": 794
+  },
+  {
+    "PlayerId": 11023,
+    "StatisticId": 795
+  },
+  {
+    "PlayerId": 10954,
+    "StatisticId": 796
+  },
+  {
+    "PlayerId": 10983,
+    "StatisticId": 797
+  },
+  {
+    "PlayerId": 11428,
+    "StatisticId": 798
+  },
+  {
+    "PlayerId": 11378,
+    "StatisticId": 799
+  },
+  {
+    "PlayerId": 11179,
+    "StatisticId": 800
+  },
+  {
+    "PlayerId": 11088,
+    "StatisticId": 801
+  },
+  {
+    "PlayerId": 11251,
+    "StatisticId": 802
+  },
+  {
+    "PlayerId": 10234,
+    "StatisticId": 803
+  },
+  {
+    "PlayerId": 10214,
+    "StatisticId": 804
+  },
+  {
+    "PlayerId": 858,
+    "StatisticId": 805
+  },
+  {
+    "PlayerId": 5651,
+    "StatisticId": 806
+  },
+  {
+    "PlayerId": 5617,
+    "StatisticId": 807
+  },
+  {
+    "PlayerId": 5623,
+    "StatisticId": 808
+  },
+  {
+    "PlayerId": 2153,
+    "StatisticId": 809
+  },
+  {
+    "PlayerId": 2132,
+    "StatisticId": 810
+  },
+  {
+    "PlayerId": 7852,
+    "StatisticId": 811
+  },
+  {
+    "PlayerId": 7903,
+    "StatisticId": 812
+  },
+  {
+    "PlayerId": 6638,
+    "StatisticId": 813
+  },
+  {
+    "PlayerId": 6661,
+    "StatisticId": 814
+  },
+  {
+    "PlayerId": 5568,
+    "StatisticId": 815
+  },
+  {
+    "PlayerId": 4009,
+    "StatisticId": 816
+  },
+  {
+    "PlayerId": 9077,
+    "StatisticId": 817
+  },
+  {
+    "PlayerId": 9051,
+    "StatisticId": 818
+  },
+  {
+    "PlayerId": 9158,
+    "StatisticId": 819
+  },
+  {
+    "PlayerId": 3151,
+    "StatisticId": 820
+  },
+  {
+    "PlayerId": 3165,
+    "StatisticId": 821
+  },
+  {
+    "PlayerId": 3194,
+    "StatisticId": 822
+  },
+  {
+    "PlayerId": 3370,
+    "StatisticId": 823
+  },
+  {
+    "PlayerId": 8691,
+    "StatisticId": 824
+  },
+  {
+    "PlayerId": 8816,
+    "StatisticId": 825
+  },
+  {
+    "PlayerId": 8789,
+    "StatisticId": 826
+  },
+  {
+    "PlayerId": 8610,
+    "StatisticId": 827
+  },
+  {
+    "PlayerId": 3195,
+    "StatisticId": 828
+  },
+  {
+    "PlayerId": 3464,
+    "StatisticId": 829
+  },
+  {
+    "PlayerId": 3359,
+    "StatisticId": 830
+  },
+  {
+    "PlayerId": 3206,
+    "StatisticId": 831
+  },
+  {
+    "PlayerId": 3214,
+    "StatisticId": 832
+  },
+  {
+    "PlayerId": 3319,
+    "StatisticId": 833
+  },
+  {
+    "PlayerId": 3247,
+    "StatisticId": 834
+  },
+  {
+    "PlayerId": 3384,
+    "StatisticId": 835
+  },
+  {
+    "PlayerId": 3132,
+    "StatisticId": 836
+  },
+  {
+    "PlayerId": 3448,
+    "StatisticId": 837
+  },
+  {
+    "PlayerId": 3228,
+    "StatisticId": 838
+  },
+  {
+    "PlayerId": 5661,
+    "StatisticId": 839
+  },
+  {
+    "PlayerId": 5680,
+    "StatisticId": 840
+  },
+  {
+    "PlayerId": 6266,
+    "StatisticId": 841
+  },
+  {
+    "PlayerId": 6170,
+    "StatisticId": 842
+  },
+  {
+    "PlayerId": 6110,
+    "StatisticId": 843
+  },
+  {
+    "PlayerId": 5744,
+    "StatisticId": 844
+  },
+  {
+    "PlayerId": 5737,
+    "StatisticId": 845
+  },
+  {
+    "PlayerId": 5981,
+    "StatisticId": 846
+  },
+  {
+    "PlayerId": 6216,
+    "StatisticId": 847
+  },
+  {
+    "PlayerId": 5965,
+    "StatisticId": 848
+  },
+  {
+    "PlayerId": 6046,
+    "StatisticId": 849
+  },
+  {
+    "PlayerId": 5659,
+    "StatisticId": 850
+  },
+  {
+    "PlayerId": 5173,
+    "StatisticId": 851
+  },
+  {
+    "PlayerId": 5137,
+    "StatisticId": 852
+  },
+  {
+    "PlayerId": 5191,
+    "StatisticId": 853
+  },
+  {
+    "PlayerId": 5159,
+    "StatisticId": 854
+  },
+  {
+    "PlayerId": 5198,
+    "StatisticId": 855
+  },
+  {
+    "PlayerId": 5178,
+    "StatisticId": 856
+  },
+  {
+    "PlayerId": 5162,
+    "StatisticId": 857
+  },
+  {
+    "PlayerId": 5196,
+    "StatisticId": 858
+  },
+  {
+    "PlayerId": 5154,
+    "StatisticId": 859
+  },
+  {
+    "PlayerId": 5176,
+    "StatisticId": 860
+  },
+  {
+    "PlayerId": 5186,
+    "StatisticId": 861
+  },
+  {
+    "PlayerId": 3948,
+    "StatisticId": 862
+  },
+  {
+    "PlayerId": 3802,
+    "StatisticId": 863
+  },
+  {
+    "PlayerId": 3897,
+    "StatisticId": 864
+  },
+  {
+    "PlayerId": 3649,
+    "StatisticId": 865
+  },
+  {
+    "PlayerId": 3853,
+    "StatisticId": 866
+  },
+  {
+    "PlayerId": 3899,
+    "StatisticId": 867
+  },
+  {
+    "PlayerId": 3951,
+    "StatisticId": 868
+  },
+  {
+    "PlayerId": 3648,
+    "StatisticId": 869
+  },
+  {
+    "PlayerId": 3936,
+    "StatisticId": 870
+  },
+  {
+    "PlayerId": 3935,
+    "StatisticId": 871
+  },
+  {
+    "PlayerId": 3918,
+    "StatisticId": 872
+  },
+  {
+    "PlayerId": 3669,
+    "StatisticId": 873
+  },
+  {
+    "PlayerId": 7306,
+    "StatisticId": 874
+  },
+  {
+    "PlayerId": 7315,
+    "StatisticId": 875
+  },
+  {
+    "PlayerId": 7447,
+    "StatisticId": 876
+  },
+  {
+    "PlayerId": 7468,
+    "StatisticId": 877
+  },
+  {
+    "PlayerId": 7389,
+    "StatisticId": 878
+  },
+  {
+    "PlayerId": 7497,
+    "StatisticId": 879
+  },
+  {
+    "PlayerId": 7355,
+    "StatisticId": 880
+  },
+  {
+    "PlayerId": 7517,
+    "StatisticId": 881
+  },
+  {
+    "PlayerId": 7521,
+    "StatisticId": 882
+  },
+  {
+    "PlayerId": 7428,
+    "StatisticId": 883
+  },
+  {
+    "PlayerId": 7354,
+    "StatisticId": 884
+  },
+  {
+    "PlayerId": 7374,
+    "StatisticId": 885
+  },
+  {
+    "PlayerId": 7314,
+    "StatisticId": 886
+  },
+  {
+    "PlayerId": 3172,
+    "StatisticId": 887
+  },
+  {
+    "PlayerId": 3213,
+    "StatisticId": 888
+  },
+  {
+    "PlayerId": 3251,
+    "StatisticId": 889
+  },
+  {
+    "PlayerId": 3289,
+    "StatisticId": 890
+  },
+  {
+    "PlayerId": 3299,
+    "StatisticId": 891
+  },
+  {
+    "PlayerId": 3314,
+    "StatisticId": 892
+  },
+  {
+    "PlayerId": 3320,
+    "StatisticId": 893
+  },
+  {
+    "PlayerId": 3321,
+    "StatisticId": 894
+  },
+  {
+    "PlayerId": 3506,
+    "StatisticId": 895
+  },
+  {
+    "PlayerId": 3417,
+    "StatisticId": 896
+  },
+  {
+    "PlayerId": 3428,
+    "StatisticId": 897
+  },
+  {
+    "PlayerId": 3440,
+    "StatisticId": 898
+  },
+  {
+    "PlayerId": 3059,
+    "StatisticId": 899
+  },
+  {
+    "PlayerId": 3079,
+    "StatisticId": 900
+  },
+  {
+    "PlayerId": 3070,
+    "StatisticId": 901
+  },
+  {
+    "PlayerId": 3063,
+    "StatisticId": 902
+  },
+  {
+    "PlayerId": 3072,
+    "StatisticId": 903
+  },
+  {
+    "PlayerId": 3075,
+    "StatisticId": 904
+  },
+  {
+    "PlayerId": 3064,
+    "StatisticId": 905
+  },
+  {
+    "PlayerId": 3069,
+    "StatisticId": 906
+  },
+  {
+    "PlayerId": 3067,
+    "StatisticId": 907
+  },
+  {
+    "PlayerId": 3065,
+    "StatisticId": 908
+  },
+  {
+    "PlayerId": 3056,
+    "StatisticId": 909
+  },
+  {
+    "PlayerId": 3055,
+    "StatisticId": 910
+  },
+  {
+    "PlayerId": 3058,
+    "StatisticId": 911
+  },
+  {
+    "PlayerId": 7016,
+    "StatisticId": 912
+  },
+  {
+    "PlayerId": 3287,
+    "StatisticId": 913
+  },
+  {
+    "PlayerId": 7746,
+    "StatisticId": 914
+  },
+  {
+    "PlayerId": 7911,
+    "StatisticId": 915
+  },
+  {
+    "PlayerId": 3446,
+    "StatisticId": 916
+  },
+  {
+    "PlayerId": 4380,
+    "StatisticId": 917
+  },
+  {
+    "PlayerId": 10258,
+    "StatisticId": 918
+  },
+  {
+    "PlayerId": 9179,
+    "StatisticId": 919
+  },
+  {
+    "PlayerId": 8950,
+    "StatisticId": 920
+  },
+  {
+    "PlayerId": 9852,
+    "StatisticId": 921
+  },
+  {
+    "PlayerId": 9870,
+    "StatisticId": 922
+  },
+  {
+    "PlayerId": 9307,
+    "StatisticId": 923
+  },
+  {
+    "PlayerId": 9306,
+    "StatisticId": 924
+  },
+  {
+    "PlayerId": 10874,
+    "StatisticId": 925
+  },
+  {
+    "PlayerId": 10897,
+    "StatisticId": 926
+  },
+  {
+    "PlayerId": 10970,
+    "StatisticId": 927
+  },
+  {
+    "PlayerId": 4708,
+    "StatisticId": 928
+  },
+  {
+    "PlayerId": 10327,
+    "StatisticId": 929
+  },
+  {
+    "PlayerId": 4005,
+    "StatisticId": 930
+  },
+  {
+    "PlayerId": 4081,
+    "StatisticId": 931
+  },
+  {
+    "PlayerId": 4140,
+    "StatisticId": 932
+  },
+  {
+    "PlayerId": 4163,
+    "StatisticId": 933
+  },
+  {
+    "PlayerId": 4257,
+    "StatisticId": 934
+  },
+  {
+    "PlayerId": 8139,
+    "StatisticId": 935
+  },
+  {
+    "PlayerId": 8077,
+    "StatisticId": 936
+  },
+  {
+    "PlayerId": 8070,
+    "StatisticId": 937
+  },
+  {
+    "PlayerId": 8054,
+    "StatisticId": 938
+  },
+  {
+    "PlayerId": 722,
+    "StatisticId": 939
+  },
+  {
+    "PlayerId": 725,
+    "StatisticId": 940
+  },
+  {
+    "PlayerId": 377,
+    "StatisticId": 941
+  },
+  {
+    "PlayerId": 716,
+    "StatisticId": 942
+  },
+  {
+    "PlayerId": 578,
+    "StatisticId": 943
+  },
+  {
+    "PlayerId": 577,
+    "StatisticId": 944
+  },
+  {
+    "PlayerId": 354,
+    "StatisticId": 945
+  },
+  {
+    "PlayerId": 578,
+    "StatisticId": 946
+  },
+  {
+    "PlayerId": 1857,
+    "StatisticId": 947
+  },
+  {
+    "PlayerId": 689,
+    "StatisticId": 948
+  },
+  {
+    "PlayerId": 11147,
+    "StatisticId": 949
+  },
+  {
+    "PlayerId": 731,
+    "StatisticId": 950
+  },
+  {
+    "PlayerId": 5519,
+    "StatisticId": 951
+  },
+  {
+    "PlayerId": 9807,
+    "StatisticId": 952
+  },
+  {
+    "PlayerId": 629,
+    "StatisticId": 953
+  },
+  {
+    "PlayerId": 323,
+    "StatisticId": 954
+  },
+  {
+    "PlayerId": 1468,
+    "StatisticId": 955
+  },
+  {
+    "PlayerId": 1533,
+    "StatisticId": 956
+  },
+  {
+    "PlayerId": 10252,
+    "StatisticId": 957
+  },
+  {
+    "PlayerId": 2543,
+    "StatisticId": 958
+  },
+  {
+    "PlayerId": 10801,
+    "StatisticId": 959
+  },
+  {
+    "PlayerId": 1013,
+    "StatisticId": 960
+  },
+  {
+    "PlayerId": 7784,
+    "StatisticId": 961
+  },
+  {
+    "PlayerId": 7471,
+    "StatisticId": 962
+  },
+  {
+    "PlayerId": 4325,
+    "StatisticId": 963
+  },
+  {
+    "PlayerId": 4392,
+    "StatisticId": 964
+  },
+  {
+    "PlayerId": 4039,
+    "StatisticId": 965
+  },
+  {
+    "PlayerId": 4197,
+    "StatisticId": 966
+  },
+  {
+    "PlayerId": 11459,
+    "StatisticId": 967
+  },
+  {
+    "PlayerId": 11269,
+    "StatisticId": 968
+  },
+  {
+    "PlayerId": 11127,
+    "StatisticId": 969
+  },
+  {
+    "PlayerId": 11198,
+    "StatisticId": 970
+  },
+  {
+    "PlayerId": 3158,
+    "StatisticId": 971
+  },
+  {
+    "PlayerId": 3220,
+    "StatisticId": 972
+  },
+  {
+    "PlayerId": 3378,
+    "StatisticId": 973
+  },
+  {
+    "PlayerId": 3443,
+    "StatisticId": 974
+  },
+  {
+    "PlayerId": 7918,
+    "StatisticId": 975
+  },
+  {
+    "PlayerId": 2675,
+    "StatisticId": 976
+  },
+  {
+    "PlayerId": 5512,
+    "StatisticId": 977
+  },
+  {
+    "PlayerId": 8573,
+    "StatisticId": 978
+  },
+  {
+    "PlayerId": 11588,
+    "StatisticId": 979
+  },
+  {
+    "PlayerId": 3562,
+    "StatisticId": 980
+  },
+  {
+    "PlayerId": 5145,
+    "StatisticId": 981
+  },
+  {
+    "PlayerId": 10090,
+    "StatisticId": 982
+  },
+  {
+    "PlayerId": 8041,
+    "StatisticId": 983
+  },
+  {
+    "PlayerId": 4362,
+    "StatisticId": 984
+  },
+  {
+    "PlayerId": 2130,
+    "StatisticId": 985
+  },
+  {
+    "PlayerId": 5858,
+    "StatisticId": 986
+  },
+  {
+    "PlayerId": 1115,
+    "StatisticId": 987
+  },
+  {
+    "PlayerId": 8937,
+    "StatisticId": 988
+  },
+  {
+    "PlayerId": 11148,
+    "StatisticId": 989
+  },
+  {
+    "PlayerId": 1255,
+    "StatisticId": 990
+  },
+  {
+    "PlayerId": 11352,
+    "StatisticId": 991
+  },
+  {
+    "PlayerId": 8813,
+    "StatisticId": 992
+  },
+  {
+    "PlayerId": 5416,
+    "StatisticId": 993
+  },
+  {
+    "PlayerId": 11115,
+    "StatisticId": 994
+  },
+  {
+    "PlayerId": 1718,
+    "StatisticId": 995
+  },
+  {
+    "PlayerId": 8571,
+    "StatisticId": 996
+  },
+  {
+    "PlayerId": 5566,
+    "StatisticId": 997
+  },
+  {
+    "PlayerId": 1032,
+    "StatisticId": 998
+  },
+  {
+    "PlayerId": 7802,
+    "StatisticId": 999
+  },
+  {
+    "PlayerId": 11324,
+    "StatisticId": 1000
+  },
+  {
+    "PlayerId": 7296,
+    "StatisticId": 1001
+  },
+  {
+    "PlayerId": 11586,
+    "StatisticId": 1002
+  },
+  {
+    "PlayerId": 8483,
+    "StatisticId": 1003
+  },
+  {
+    "PlayerId": 9999,
+    "StatisticId": 1004
+  },
+  {
+    "PlayerId": 7771,
+    "StatisticId": 1005
+  },
+  {
+    "PlayerId": 2147,
+    "StatisticId": 1006
+  },
+  {
+    "PlayerId": 4855,
+    "StatisticId": 1007
+  },
+  {
+    "PlayerId": 868,
+    "StatisticId": 1008
+  },
+  {
+    "PlayerId": 8957,
+    "StatisticId": 1009
+  },
+  {
+    "PlayerId": 5052,
+    "StatisticId": 1010
+  },
+  {
+    "PlayerId": 9175,
+    "StatisticId": 1011
+  },
+  {
+    "PlayerId": 562,
+    "StatisticId": 1012
+  },
+  {
+    "PlayerId": 11557,
+    "StatisticId": 1013
+  },
+  {
+    "PlayerId": 4036,
+    "StatisticId": 1014
+  },
+  {
+    "PlayerId": 4385,
+    "StatisticId": 1015
+  },
+  {
+    "PlayerId": 11302,
+    "StatisticId": 1016
+  },
+  {
+    "PlayerId": 10269,
+    "StatisticId": 1017
+  },
+  {
+    "PlayerId": 7954,
+    "StatisticId": 1018
+  },
+  {
+    "PlayerId": 7987,
+    "StatisticId": 1019
+  },
+  {
+    "PlayerId": 11263,
+    "StatisticId": 1020
+  },
+  {
+    "PlayerId": 3363,
+    "StatisticId": 1021
+  },
+  {
+    "PlayerId": 3369,
+    "StatisticId": 1022
+  },
+  {
+    "PlayerId": 3397,
+    "StatisticId": 1023
+  },
+  {
+    "PlayerId": 3438,
+    "StatisticId": 1024
+  },
+  {
+    "PlayerId": 9092,
+    "StatisticId": 1025
+  },
+  {
+    "PlayerId": 8874,
+    "StatisticId": 1026
+  },
+  {
+    "PlayerId": 8873,
+    "StatisticId": 1027
+  },
+  {
+    "PlayerId": 9046,
+    "StatisticId": 1028
+  },
+  {
+    "PlayerId": 11093,
+    "StatisticId": 1029
+  },
+  {
+    "PlayerId": 11085,
+    "StatisticId": 1030
+  },
+  {
+    "PlayerId": 11185,
+    "StatisticId": 1031
+  },
+  {
+    "PlayerId": 11210,
+    "StatisticId": 1032
+  },
+  {
+    "PlayerId": 11326,
+    "StatisticId": 1033
+  },
+  {
+    "PlayerId": 9503,
+    "StatisticId": 1034
+  },
+  {
+    "PlayerId": 2144,
+    "StatisticId": 1035
+  },
+  {
+    "PlayerId": 752,
+    "StatisticId": 1036
+  },
+  {
+    "PlayerId": 2343,
+    "StatisticId": 1037
+  },
+  {
+    "PlayerId": 7687,
+    "StatisticId": 1038
+  },
+  {
+    "PlayerId": 2652,
+    "StatisticId": 1039
+  },
+  {
+    "PlayerId": 10204,
+    "StatisticId": 1040
+  },
+  {
+    "PlayerId": 7035,
+    "StatisticId": 1041
+  },
+  {
+    "PlayerId": 10999,
+    "StatisticId": 1042
+  },
+  {
+    "PlayerId": 10783,
+    "StatisticId": 1043
+  },
+  {
+    "PlayerId": 3964,
+    "StatisticId": 1044
+  },
+  {
+    "PlayerId": 10854,
+    "StatisticId": 1045
+  },
+  {
+    "PlayerId": 11441,
+    "StatisticId": 1046
+  },
+  {
+    "PlayerId": 10970,
+    "StatisticId": 1047
+  },
+  {
+    "PlayerId": 10851,
+    "StatisticId": 1048
+  },
+  {
+    "PlayerId": 11345,
+    "StatisticId": 1049
+  },
+  {
+    "PlayerId": 11272,
+    "StatisticId": 1050
+  },
+  {
+    "PlayerId": 10850,
+    "StatisticId": 1051
+  },
+  {
+    "PlayerId": 11240,
+    "StatisticId": 1052
+  },
+  {
+    "PlayerId": 4367,
+    "StatisticId": 1053
+  },
+  {
+    "PlayerId": 4296,
+    "StatisticId": 1054
+  },
+  {
+    "PlayerId": 4136,
+    "StatisticId": 1055
+  },
+  {
+    "PlayerId": 4140,
+    "StatisticId": 1056
+  },
+  {
+    "PlayerId": 4257,
+    "StatisticId": 1057
+  },
+  {
+    "PlayerId": 5462,
+    "StatisticId": 1058
+  },
+  {
+    "PlayerId": 5448,
+    "StatisticId": 1059
+  },
+  {
+    "PlayerId": 5297,
+    "StatisticId": 1060
+  },
+  {
+    "PlayerId": 5270,
+    "StatisticId": 1061
+  },
+  {
+    "PlayerId": 10970,
+    "StatisticId": 1062
+  },
+  {
+    "PlayerId": 3385,
+    "StatisticId": 1063
+  },
+  {
+    "PlayerId": 1374,
+    "StatisticId": 1064
+  },
+  {
+    "PlayerId": 609,
+    "StatisticId": 1065
+  },
+  {
+    "PlayerId": 725,
+    "StatisticId": 1066
+  },
+  {
+    "PlayerId": 689,
+    "StatisticId": 1067
+  },
+  {
+    "PlayerId": 483,
+    "StatisticId": 1068
+  },
+  {
+    "PlayerId": 577,
+    "StatisticId": 1069
+  },
+  {
+    "PlayerId": 355,
+    "StatisticId": 1070
+  },
+  {
+    "PlayerId": 578,
+    "StatisticId": 1071
+  },
+  {
+    "PlayerId": 11359,
+    "StatisticId": 1072
+  },
+  {
+    "PlayerId": 11120,
+    "StatisticId": 1073
+  },
+  {
+    "PlayerId": 11082,
+    "StatisticId": 1074
+  },
+  {
+    "PlayerId": 10941,
+    "StatisticId": 1075
+  },
+  {
+    "PlayerId": 11422,
+    "StatisticId": 1076
+  },
+  {
+    "PlayerId": 10889,
+    "StatisticId": 1077
+  },
+  {
+    "PlayerId": 11095,
+    "StatisticId": 1078
+  },
+  {
+    "PlayerId": 11427,
+    "StatisticId": 1079
+  },
+  {
+    "PlayerId": 1929,
+    "StatisticId": 1080
+  },
+  {
+    "PlayerId": 1849,
+    "StatisticId": 1081
+  },
+  {
+    "PlayerId": 1933,
+    "StatisticId": 1082
+  },
+  {
+    "PlayerId": 1857,
+    "StatisticId": 1083
+  },
+  {
+    "PlayerId": 1907,
+    "StatisticId": 1084
+  },
+  {
+    "PlayerId": 1888,
+    "StatisticId": 1085
+  },
+  {
+    "PlayerId": 577,
+    "StatisticId": 1086
+  },
+  {
+    "PlayerId": 10233,
+    "StatisticId": 1087
+  },
+  {
+    "PlayerId": 2567,
+    "StatisticId": 1088
+  },
+  {
+    "PlayerId": 3986,
+    "StatisticId": 1089
+  },
+  {
+    "PlayerId": 8954,
+    "StatisticId": 1090
+  },
+  {
+    "PlayerId": 9088,
+    "StatisticId": 1091
+  },
+  {
+    "PlayerId": 9061,
+    "StatisticId": 1092
+  },
+  {
+    "PlayerId": 8948,
+    "StatisticId": 1093
+  },
+  {
+    "PlayerId": 9160,
+    "StatisticId": 1094
+  },
+  {
+    "PlayerId": 2477,
+    "StatisticId": 1095
+  },
+  {
+    "PlayerId": 2524,
+    "StatisticId": 1096
+  },
+  {
+    "PlayerId": 10252,
+    "StatisticId": 1097
+  },
+  {
+    "PlayerId": 10282,
+    "StatisticId": 1098
+  },
+  {
+    "PlayerId": 2753,
+    "StatisticId": 1099
+  },
+  {
+    "PlayerId": 11253,
+    "StatisticId": 1100
+  },
+  {
+    "PlayerId": 6741,
+    "StatisticId": 1101
+  },
+  {
+    "PlayerId": 7900,
+    "StatisticId": 1102
+  },
+  {
+    "PlayerId": 8095,
+    "StatisticId": 1103
+  },
+  {
+    "PlayerId": 4450,
+    "StatisticId": 1104
+  },
+  {
+    "PlayerId": 8793,
+    "StatisticId": 1105
+  },
+  {
+    "PlayerId": 8839,
+    "StatisticId": 1106
+  },
+  {
+    "PlayerId": 286,
+    "StatisticId": 1107
+  },
+  {
+    "PlayerId": 10905,
+    "StatisticId": 1108
+  },
+  {
+    "PlayerId": 5367,
+    "StatisticId": 1109
+  },
+  {
+    "PlayerId": 5969,
+    "StatisticId": 1110
+  },
+  {
+    "PlayerId": 9028,
+    "StatisticId": 1111
+  },
+  {
+    "PlayerId": 6950,
+    "StatisticId": 1112
+  },
+  {
+    "PlayerId": 3028,
+    "StatisticId": 1113
+  },
+  {
+    "PlayerId": 6411,
+    "StatisticId": 1114
+  },
+  {
+    "PlayerId": 4463,
+    "StatisticId": 1115
+  },
+  {
+    "PlayerId": 2368,
+    "StatisticId": 1116
+  },
+  {
+    "PlayerId": 2387,
+    "StatisticId": 1117
+  },
+  {
+    "PlayerId": 8533,
+    "StatisticId": 1118
+  },
+  {
+    "PlayerId": 11049,
+    "StatisticId": 1119
+  },
+  {
+    "PlayerId": 5646,
+    "StatisticId": 1120
+  },
+  {
+    "PlayerId": 7091,
+    "StatisticId": 1121
+  },
+  {
+    "PlayerId": 6436,
+    "StatisticId": 1122
+  },
+  {
+    "PlayerId": 3043,
+    "StatisticId": 1123
+  },
+  {
+    "PlayerId": 10842,
+    "StatisticId": 1124
+  },
+  {
+    "PlayerId": 3845,
+    "StatisticId": 1125
+  },
+  {
+    "PlayerId": 2398,
+    "StatisticId": 1126
+  },
+  {
+    "PlayerId": 2561,
+    "StatisticId": 1127
+  },
+  {
+    "PlayerId": 7760,
+    "StatisticId": 1128
+  },
+  {
+    "PlayerId": 4915,
+    "StatisticId": 1129
+  },
+  {
+    "PlayerId": 4916,
+    "StatisticId": 1130
+  },
+  {
+    "PlayerId": 4925,
+    "StatisticId": 1131
+  },
+  {
+    "PlayerId": 7763,
+    "StatisticId": 1132
+  },
+  {
+    "PlayerId": 7836,
+    "StatisticId": 1133
+  },
+  {
+    "PlayerId": 8707,
+    "StatisticId": 1134
+  },
+  {
+    "PlayerId": 8721,
+    "StatisticId": 1135
+  },
+  {
+    "PlayerId": 8151,
+    "StatisticId": 1136
+  },
+  {
+    "PlayerId": 7744,
+    "StatisticId": 1137
+  },
+  {
+    "PlayerId": 3705,
+    "StatisticId": 1138
+  },
+  {
+    "PlayerId": 3650,
+    "StatisticId": 1139
+  },
+  {
+    "PlayerId": 9163,
+    "StatisticId": 1140
+  },
+  {
+    "PlayerId": 9111,
+    "StatisticId": 1141
+  },
+  {
+    "PlayerId": 3753,
+    "StatisticId": 1142
+  },
+  {
+    "PlayerId": 4219,
+    "StatisticId": 1143
+  },
+  {
+    "PlayerId": 494,
+    "StatisticId": 1144
+  },
+  {
+    "PlayerId": 4219,
+    "StatisticId": 1145
+  },
+  {
+    "PlayerId": 4340,
+    "StatisticId": 1146
+  },
+  {
+    "PlayerId": 4061,
+    "StatisticId": 1147
+  },
+  {
+    "PlayerId": 674,
+    "StatisticId": 1148
+  },
+  {
+    "PlayerId": 581,
+    "StatisticId": 1149
+  },
+  {
+    "PlayerId": 494,
+    "StatisticId": 1150
+  },
+  {
+    "PlayerId": 3348,
+    "StatisticId": 1151
+  },
+  {
+    "PlayerId": 3480,
+    "StatisticId": 1152
+  },
+  {
+    "PlayerId": 3500,
+    "StatisticId": 1153
+  },
+  {
+    "PlayerId": 3456,
+    "StatisticId": 1154
+  },
+  {
+    "PlayerId": 2401,
+    "StatisticId": 1155
+  },
+  {
+    "PlayerId": 7866,
+    "StatisticId": 1156
+  },
+  {
+    "PlayerId": 8109,
+    "StatisticId": 1157
+  },
+  {
+    "PlayerId": 8946,
+    "StatisticId": 1158
+  },
+  {
+    "PlayerId": 9425,
+    "StatisticId": 1159
+  },
+  {
+    "PlayerId": 7860,
+    "StatisticId": 1160
+  },
+  {
+    "PlayerId": 4045,
+    "StatisticId": 1161
+  },
+  {
+    "PlayerId": 11306,
+    "StatisticId": 1162
+  },
+  {
+    "PlayerId": 8021,
+    "StatisticId": 1163
+  },
+  {
+    "PlayerId": 2776,
+    "StatisticId": 1164
+  },
+  {
+    "PlayerId": 2729,
+    "StatisticId": 1165
+  },
+  {
+    "PlayerId": 2385,
+    "StatisticId": 1166
+  },
+  {
+    "PlayerId": 3547,
+    "StatisticId": 1167
+  },
+  {
+    "PlayerId": 10593,
+    "StatisticId": 1168
+  },
+  {
+    "PlayerId": 9096,
+    "StatisticId": 1169
+  },
+  {
+    "PlayerId": 2392,
+    "StatisticId": 1170
+  },
+  {
+    "PlayerId": 5727,
+    "StatisticId": 1171
+  },
+  {
+    "PlayerId": 8905,
+    "StatisticId": 1172
+  },
+  {
+    "PlayerId": 7980,
+    "StatisticId": 1173
+  },
+  {
+    "PlayerId": 3862,
+    "StatisticId": 1174
+  },
+  {
+    "PlayerId": 11028,
+    "StatisticId": 1175
+  },
+  {
+    "PlayerId": 10530,
+    "StatisticId": 1176
+  },
+  {
+    "PlayerId": 8154,
+    "StatisticId": 1177
+  },
+  {
+    "PlayerId": 5750,
+    "StatisticId": 1178
+  },
+  {
+    "PlayerId": 2341,
+    "StatisticId": 1179
+  },
+  {
+    "PlayerId": 9047,
+    "StatisticId": 1180
+  },
+  {
+    "PlayerId": 8162,
+    "StatisticId": 1181
+  },
+  {
+    "PlayerId": 3626,
+    "StatisticId": 1182
+  },
+  {
+    "PlayerId": 10540,
+    "StatisticId": 1183
+  },
+  {
+    "PlayerId": 7807,
+    "StatisticId": 1184
+  },
+  {
+    "PlayerId": 7977,
+    "StatisticId": 1185
+  },
+  {
+    "PlayerId": 10877,
+    "StatisticId": 1186
+  },
+  {
+    "PlayerId": 7691,
+    "StatisticId": 1187
+  },
+  {
+    "PlayerId": 10872,
+    "StatisticId": 1188
+  },
+  {
+    "PlayerId": 1351,
+    "StatisticId": 1189
+  },
+  {
+    "PlayerId": 10149,
+    "StatisticId": 1190
+  },
+  {
+    "PlayerId": 11248,
+    "StatisticId": 1191
+  },
+  {
+    "PlayerId": 1292,
+    "StatisticId": 1192
+  },
+  {
+    "PlayerId": 5651,
+    "StatisticId": 1193
+  },
+  {
+    "PlayerId": 6999,
+    "StatisticId": 1194
+  },
+  {
+    "PlayerId": 11389,
+    "StatisticId": 1195
+  },
+  {
+    "PlayerId": 11232,
+    "StatisticId": 1196
+  },
+  {
+    "PlayerId": 4160,
+    "StatisticId": 1197
+  },
+  {
+    "PlayerId": 11308,
+    "StatisticId": 1198
+  },
+  {
+    "PlayerId": 8420,
+    "StatisticId": 1199
+  },
+  {
+    "PlayerId": 8020,
+    "StatisticId": 1200
+  },
+  {
+    "PlayerId": 8296,
+    "StatisticId": 1201
+  },
+  {
+    "PlayerId": 3808,
+    "StatisticId": 1202
+  },
+  {
+    "PlayerId": 11294,
+    "StatisticId": 1203
+  },
+  {
+    "PlayerId": 7552,
+    "StatisticId": 1204
+  },
+  {
+    "PlayerId": 2354,
+    "StatisticId": 1205
+  },
+  {
+    "PlayerId": 3999,
+    "StatisticId": 1206
+  },
+  {
+    "PlayerId": 7434,
+    "StatisticId": 1207
+  },
+  {
+    "PlayerId": 1538,
+    "StatisticId": 1208
+  },
+  {
+    "PlayerId": 2380,
+    "StatisticId": 1209
+  },
+  {
+    "PlayerId": 4218,
+    "StatisticId": 1210
+  },
+  {
+    "PlayerId": 5809,
+    "StatisticId": 1211
+  },
+  {
+    "PlayerId": 8211,
+    "StatisticId": 1212
+  },
+  {
+    "PlayerId": 2381,
+    "StatisticId": 1213
+  },
+  {
+    "PlayerId": 2411,
+    "StatisticId": 1214
+  },
+  {
+    "PlayerId": 7886,
+    "StatisticId": 1215
+  },
+  {
+    "PlayerId": 8145,
+    "StatisticId": 1216
+  },
+  {
+    "PlayerId": 3688,
+    "StatisticId": 1217
+  },
+  {
+    "PlayerId": 3613,
+    "StatisticId": 1218
+  },
+  {
+    "PlayerId": 4671,
+    "StatisticId": 1219
+  },
+  {
+    "PlayerId": 4766,
+    "StatisticId": 1220
+  },
+  {
+    "PlayerId": 8498,
+    "StatisticId": 1221
+  },
+  {
+    "PlayerId": 7326,
+    "StatisticId": 1222
+  },
+  {
+    "PlayerId": 7453,
+    "StatisticId": 1223
+  },
+  {
+    "PlayerId": 8374,
+    "StatisticId": 1224
+  },
+  {
+    "PlayerId": 8347,
+    "StatisticId": 1225
+  },
+  {
+    "PlayerId": 4681,
+    "StatisticId": 1226
+  },
+  {
+    "PlayerId": 4616,
+    "StatisticId": 1227
+  },
+  {
+    "PlayerId": 7326,
+    "StatisticId": 1228
+  },
+  {
+    "PlayerId": 8501,
+    "StatisticId": 1229
+  },
+  {
+    "PlayerId": 2612,
+    "StatisticId": 1230
+  },
+  {
+    "PlayerId": 7224,
+    "StatisticId": 1231
+  },
+  {
+    "PlayerId": 7099,
+    "StatisticId": 1232
+  },
+  {
+    "PlayerId": 7043,
+    "StatisticId": 1233
+  },
+  {
+    "PlayerId": 7137,
+    "StatisticId": 1234
+  },
+  {
+    "PlayerId": 4048,
+    "StatisticId": 1235
+  },
+  {
+    "PlayerId": 4183,
+    "StatisticId": 1236
+  },
+  {
+    "PlayerId": 4248,
+    "StatisticId": 1237
+  },
+  {
+    "PlayerId": 3513,
+    "StatisticId": 1238
+  },
+  {
+    "PlayerId": 3309,
+    "StatisticId": 1239
+  },
+  {
+    "PlayerId": 3291,
+    "StatisticId": 1240
+  },
+  {
+    "PlayerId": 3614,
+    "StatisticId": 1241
+  },
+  {
+    "PlayerId": 3610,
+    "StatisticId": 1242
+  },
+  {
+    "PlayerId": 3756,
+    "StatisticId": 1243
+  },
+  {
+    "PlayerId": 3735,
+    "StatisticId": 1244
+  },
+  {
+    "PlayerId": 4008,
+    "StatisticId": 1245
+  },
+  {
+    "PlayerId": 4014,
+    "StatisticId": 1246
+  },
+  {
+    "PlayerId": 4099,
+    "StatisticId": 1247
+  },
+  {
+    "PlayerId": 4184,
+    "StatisticId": 1248
+  },
+  {
+    "PlayerId": 4192,
+    "StatisticId": 1249
+  },
+  {
+    "PlayerId": 11435,
+    "StatisticId": 1250
+  },
+  {
+    "PlayerId": 10978,
+    "StatisticId": 1251
+  },
+  {
+    "PlayerId": 11426,
+    "StatisticId": 1252
+  },
+  {
+    "PlayerId": 11408,
+    "StatisticId": 1253
+  },
+  {
+    "PlayerId": 11098,
+    "StatisticId": 1254
+  },
+  {
+    "PlayerId": 8044,
+    "StatisticId": 1255
+  },
+  {
+    "PlayerId": 8024,
+    "StatisticId": 1256
+  },
+  {
+    "PlayerId": 4196,
+    "StatisticId": 1257
+  },
+  {
+    "PlayerId": 4297,
+    "StatisticId": 1258
+  },
+  {
+    "PlayerId": 4612,
+    "StatisticId": 1259
+  },
+  {
+    "PlayerId": 9806,
+    "StatisticId": 1260
+  },
+  {
+    "PlayerId": 4025,
+    "StatisticId": 1261
+  },
+  {
+    "PlayerId": 4106,
+    "StatisticId": 1262
+  },
+  {
+    "PlayerId": 7321,
+    "StatisticId": 1263
+  },
+  {
+    "PlayerId": 7498,
+    "StatisticId": 1264
+  },
+  {
+    "PlayerId": 3690,
+    "StatisticId": 1265
+  },
+  {
+    "PlayerId": 3838,
+    "StatisticId": 1266
+  },
+  {
+    "PlayerId": 5236,
+    "StatisticId": 1267
+  },
+  {
+    "PlayerId": 5569,
+    "StatisticId": 1268
+  },
+  {
+    "PlayerId": 4129,
+    "StatisticId": 1269
+  },
+  {
+    "PlayerId": 4042,
+    "StatisticId": 1270
+  },
+  {
+    "PlayerId": 3920,
+    "StatisticId": 1271
+  },
+  {
+    "PlayerId": 3748,
+    "StatisticId": 1272
+  },
+  {
+    "PlayerId": 1403,
+    "StatisticId": 1273
+  },
+  {
+    "PlayerId": 1386,
+    "StatisticId": 1274
+  },
+  {
+    "PlayerId": 3595,
+    "StatisticId": 1275
+  },
+  {
+    "PlayerId": 3792,
+    "StatisticId": 1276
+  },
+  {
+    "PlayerId": 7020,
+    "StatisticId": 1277
+  },
+  {
+    "PlayerId": 7070,
+    "StatisticId": 1278
+  },
+  {
+    "PlayerId": 11492,
+    "StatisticId": 1279
+  },
+  {
+    "PlayerId": 291,
+    "StatisticId": 1280
+  },
+  {
+    "PlayerId": 6538,
+    "StatisticId": 1281
+  },
+  {
+    "PlayerId": 4689,
+    "StatisticId": 1282
+  },
+  {
+    "PlayerId": 6501,
+    "StatisticId": 1283
+  },
+  {
+    "PlayerId": 885,
+    "StatisticId": 1284
+  },
+  {
+    "PlayerId": 6217,
+    "StatisticId": 1285
+  },
+  {
+    "PlayerId": 8907,
+    "StatisticId": 1286
+  },
+  {
+    "PlayerId": 280,
+    "StatisticId": 1287
+  },
+  {
+    "PlayerId": 8339,
+    "StatisticId": 1288
+  },
+  {
+    "PlayerId": 5117,
+    "StatisticId": 1289
+  },
+  {
+    "PlayerId": 11213,
+    "StatisticId": 1290
+  },
+  {
+    "PlayerId": 7573,
+    "StatisticId": 1291
+  },
+  {
+    "PlayerId": 10689,
+    "StatisticId": 1292
+  },
+  {
+    "PlayerId": 6509,
+    "StatisticId": 1293
+  },
+  {
+    "PlayerId": 8977,
+    "StatisticId": 1294
+  },
+  {
+    "PlayerId": 9087,
+    "StatisticId": 1295
+  },
+  {
+    "PlayerId": 7832,
+    "StatisticId": 1296
+  },
+  {
+    "PlayerId": 7969,
+    "StatisticId": 1297
+  },
+  {
+    "PlayerId": 10787,
+    "StatisticId": 1298
+  },
+  {
+    "PlayerId": 10694,
+    "StatisticId": 1299
+  },
+  {
+    "PlayerId": 1718,
+    "StatisticId": 1300
+  },
+  {
+    "PlayerId": 10869,
+    "StatisticId": 1301
+  },
+  {
+    "PlayerId": 11169,
+    "StatisticId": 1302
+  },
+  {
+    "PlayerId": 6421,
+    "StatisticId": 1303
+  },
+  {
+    "PlayerId": 6459,
+    "StatisticId": 1304
+  },
+  {
+    "PlayerId": 8251,
+    "StatisticId": 1305
+  },
+  {
+    "PlayerId": 2000,
+    "StatisticId": 1306
+  },
+  {
+    "PlayerId": 3394,
+    "StatisticId": 1307
+  },
+  {
+    "PlayerId": 596,
+    "StatisticId": 1308
+  },
+  {
+    "PlayerId": 8354,
+    "StatisticId": 1309
+  },
+  {
+    "PlayerId": 7632,
+    "StatisticId": 1310
+  },
+  {
+    "PlayerId": 8256,
+    "StatisticId": 1311
+  },
+  {
+    "PlayerId": 10658,
+    "StatisticId": 1312
+  },
+  {
+    "PlayerId": 11011,
+    "StatisticId": 1313
+  },
+  {
+    "PlayerId": 6420,
+    "StatisticId": 1314
+  },
+  {
+    "PlayerId": 11203,
+    "StatisticId": 1315
+  },
+  {
+    "PlayerId": 11235,
+    "StatisticId": 1316
+  },
+  {
+    "PlayerId": 7030,
+    "StatisticId": 1317
+  },
+  {
+    "PlayerId": 1171,
+    "StatisticId": 1318
+  },
+  {
+    "PlayerId": 7272,
+    "StatisticId": 1319
+  },
+  {
+    "PlayerId": 7158,
+    "StatisticId": 1320
+  },
+  {
+    "PlayerId": 2384,
+    "StatisticId": 1321
+  },
+  {
+    "PlayerId": 4363,
+    "StatisticId": 1322
+  },
+  {
+    "PlayerId": 6323,
+    "StatisticId": 1323
+  },
+  {
+    "PlayerId": 4060,
+    "StatisticId": 1324
+  },
+  {
+    "PlayerId": 2122,
+    "StatisticId": 1325
+  },
+  {
+    "PlayerId": 5998,
+    "StatisticId": 1326
+  },
+  {
+    "PlayerId": 4792,
+    "StatisticId": 1327
+  },
+  {
+    "PlayerId": 11105,
+    "StatisticId": 1328
+  },
+  {
+    "PlayerId": 5315,
+    "StatisticId": 1329
+  },
+  {
+    "PlayerId": 5392,
+    "StatisticId": 1330
+  },
+  {
+    "PlayerId": 5460,
+    "StatisticId": 1331
+  },
+  {
+    "PlayerId": 5424,
+    "StatisticId": 1332
+  },
+  {
+    "PlayerId": 2621,
+    "StatisticId": 1333
+  },
+  {
+    "PlayerId": 2625,
+    "StatisticId": 1334
+  },
+  {
+    "PlayerId": 2592,
+    "StatisticId": 1335
+  },
+  {
+    "PlayerId": 2647,
+    "StatisticId": 1336
+  },
+  {
+    "PlayerId": 608,
+    "StatisticId": 1337
+  },
+  {
+    "PlayerId": 755,
+    "StatisticId": 1338
+  },
+  {
+    "PlayerId": 641,
+    "StatisticId": 1339
+  },
+  {
+    "PlayerId": 491,
+    "StatisticId": 1340
+  },
+  {
+    "PlayerId": 646,
+    "StatisticId": 1341
+  },
+  {
+    "PlayerId": 4207,
+    "StatisticId": 1342
+  },
+  {
+    "PlayerId": 10155,
+    "StatisticId": 1343
+  },
+  {
+    "PlayerId": 7236,
+    "StatisticId": 1344
+  },
+  {
+    "PlayerId": 1320,
+    "StatisticId": 1345
+  },
+  {
+    "PlayerId": 7258,
+    "StatisticId": 1346
+  },
+  {
+    "PlayerId": 536,
+    "StatisticId": 1347
+  },
+  {
+    "PlayerId": 682,
+    "StatisticId": 1348
+  },
+  {
+    "PlayerId": 331,
+    "StatisticId": 1349
+  },
+  {
+    "PlayerId": 10128,
+    "StatisticId": 1350
+  },
+  {
+    "PlayerId": 10146,
+    "StatisticId": 1351
+  },
+  {
+    "PlayerId": 10032,
+    "StatisticId": 1352
+  },
+  {
+    "PlayerId": 10086,
+    "StatisticId": 1353
+  },
+  {
+    "PlayerId": 4223,
+    "StatisticId": 1354
+  },
+  {
+    "PlayerId": 4231,
+    "StatisticId": 1355
+  },
+  {
+    "PlayerId": 8392,
+    "StatisticId": 1356
+  },
+  {
+    "PlayerId": 8355,
+    "StatisticId": 1357
+  },
+  {
+    "PlayerId": 3365,
+    "StatisticId": 1358
+  },
+  {
+    "PlayerId": 3461,
+    "StatisticId": 1359
+  },
+  {
+    "PlayerId": 6271,
+    "StatisticId": 1360
+  },
+  {
+    "PlayerId": 5772,
+    "StatisticId": 1361
+  },
+  {
+    "PlayerId": 4038,
+    "StatisticId": 1362
+  },
+  {
+    "PlayerId": 3567,
+    "StatisticId": 1363
+  },
+  {
+    "PlayerId": 5071,
+    "StatisticId": 1364
+  },
+  {
+    "PlayerId": 10364,
+    "StatisticId": 1365
+  },
+  {
+    "PlayerId": 5078,
+    "StatisticId": 1366
+  },
+  {
+    "PlayerId": 10756,
+    "StatisticId": 1367
+  },
+  {
+    "PlayerId": 2826,
+    "StatisticId": 1368
+  },
+  {
+    "PlayerId": 3912,
+    "StatisticId": 1369
+  },
+  {
+    "PlayerId": 10680,
+    "StatisticId": 1370
+  },
+  {
+    "PlayerId": 4690,
+    "StatisticId": 1371
+  },
+  {
+    "PlayerId": 3760,
+    "StatisticId": 1372
+  },
+  {
+    "PlayerId": 9375,
+    "StatisticId": 1373
+  },
+  {
+    "PlayerId": 5853,
+    "StatisticId": 1374
+  },
+  {
+    "PlayerId": 6508,
+    "StatisticId": 1375
+  },
+  {
+    "PlayerId": 10723,
+    "StatisticId": 1376
+  },
+  {
+    "PlayerId": 1607,
+    "StatisticId": 1377
+  },
+  {
+    "PlayerId": 5638,
+    "StatisticId": 1378
+  },
+  {
+    "PlayerId": 11068,
+    "StatisticId": 1379
+  },
+  {
+    "PlayerId": 5628,
+    "StatisticId": 1380
+  },
+  {
+    "PlayerId": 5560,
+    "StatisticId": 1381
+  },
+  {
+    "PlayerId": 5796,
+    "StatisticId": 1382
+  },
+  {
+    "PlayerId": 6240,
+    "StatisticId": 1383
+  },
+  {
+    "PlayerId": 916,
+    "StatisticId": 1384
+  },
+  {
+    "PlayerId": 2233,
+    "StatisticId": 1385
+  },
+  {
+    "PlayerId": 4478,
+    "StatisticId": 1386
+  },
+  {
+    "PlayerId": 10935,
+    "StatisticId": 1387
+  },
+  {
+    "PlayerId": 11134,
+    "StatisticId": 1388
+  },
+  {
+    "PlayerId": 7504,
+    "StatisticId": 1389
+  },
+  {
+    "PlayerId": 8497,
+    "StatisticId": 1390
+  },
+  {
+    "PlayerId": 8160,
+    "StatisticId": 1391
+  },
+  {
+    "PlayerId": 1616,
+    "StatisticId": 1392
+  },
+  {
+    "PlayerId": 11244,
+    "StatisticId": 1393
+  },
+  {
+    "PlayerId": 9116,
+    "StatisticId": 1394
+  },
+  {
+    "PlayerId": 4029,
+    "StatisticId": 1395
+  },
+  {
+    "PlayerId": 8863,
+    "StatisticId": 1396
+  },
+  {
+    "PlayerId": 11281,
+    "StatisticId": 1397
+  },
+  {
+    "PlayerId": 6300,
+    "StatisticId": 1398
+  },
+  {
+    "PlayerId": 6162,
+    "StatisticId": 1399
+  },
+  {
+    "PlayerId": 8205,
+    "StatisticId": 1400
+  },
+  {
+    "PlayerId": 8857,
+    "StatisticId": 1401
+  },
+  {
+    "PlayerId": 10408,
+    "StatisticId": 1402
+  },
+  {
+    "PlayerId": 3116,
+    "StatisticId": 1403
+  },
+  {
+    "PlayerId": 742,
+    "StatisticId": 1404
+  },
+  {
+    "PlayerId": 453,
+    "StatisticId": 1405
+  },
+  {
+    "PlayerId": 3886,
+    "StatisticId": 1406
+  },
+  {
+    "PlayerId": 3706,
+    "StatisticId": 1407
+  },
+  {
+    "PlayerId": 2448,
+    "StatisticId": 1408
+  },
+  {
+    "PlayerId": 2527,
+    "StatisticId": 1409
+  },
+  {
+    "PlayerId": 4759,
+    "StatisticId": 1410
+  },
+  {
+    "PlayerId": 5530,
+    "StatisticId": 1411
+  },
+  {
+    "PlayerId": 4148,
+    "StatisticId": 1412
+  },
+  {
+    "PlayerId": 11050,
+    "StatisticId": 1413
+  },
+  {
+    "PlayerId": 1991,
+    "StatisticId": 1414
+  },
+  {
+    "PlayerId": 10743,
+    "StatisticId": 1415
+  },
+  {
+    "PlayerId": 7326,
+    "StatisticId": 1416
+  },
+  {
+    "PlayerId": 4625,
+    "StatisticId": 1417
+  },
+  {
+    "PlayerId": 2612,
+    "StatisticId": 1418
+  },
+  {
+    "PlayerId": 4356,
+    "StatisticId": 1419
+  },
+  {
+    "PlayerId": 7485,
+    "StatisticId": 1420
+  },
+  {
+    "PlayerId": 5588,
+    "StatisticId": 1421
+  },
+  {
+    "PlayerId": 7037,
+    "StatisticId": 1422
+  },
+  {
+    "PlayerId": 7298,
+    "StatisticId": 1423
+  },
+  {
+    "PlayerId": 1760,
+    "StatisticId": 1424
+  },
+  {
+    "PlayerId": 7943,
+    "StatisticId": 1425
+  },
+  {
+    "PlayerId": 7773,
+    "StatisticId": 1426
+  },
+  {
+    "PlayerId": 780,
+    "StatisticId": 1427
+  },
+  {
+    "PlayerId": 1079,
+    "StatisticId": 1428
+  },
+  {
+    "PlayerId": 1104,
+    "StatisticId": 1429
+  },
+  {
+    "PlayerId": 1108,
+    "StatisticId": 1430
+  },
+  {
+    "PlayerId": 1131,
+    "StatisticId": 1431
+  },
+  {
+    "PlayerId": 1142,
+    "StatisticId": 1432
+  },
+  {
+    "PlayerId": 1174,
+    "StatisticId": 1433
+  },
+  {
+    "PlayerId": 1185,
+    "StatisticId": 1434
+  },
+  {
+    "PlayerId": 1082,
+    "StatisticId": 1435
+  },
+  {
+    "PlayerId": 1088,
+    "StatisticId": 1436
+  },
+  {
+    "PlayerId": 1097,
+    "StatisticId": 1437
+  },
+  {
+    "PlayerId": 1114,
+    "StatisticId": 1438
+  },
+  {
+    "PlayerId": 1119,
+    "StatisticId": 1439
+  },
+  {
+    "PlayerId": 1129,
+    "StatisticId": 1440
+  },
+  {
+    "PlayerId": 1136,
+    "StatisticId": 1441
+  },
+  {
+    "PlayerId": 1151,
+    "StatisticId": 1442
+  },
+  {
+    "PlayerId": 1203,
+    "StatisticId": 1443
+  },
+  {
+    "PlayerId": 1179,
+    "StatisticId": 1444
+  },
+  {
+    "PlayerId": 1120,
+    "StatisticId": 1445
+  },
+  {
+    "PlayerId": 365,
+    "StatisticId": 1446
+  },
+  {
+    "PlayerId": 595,
+    "StatisticId": 1447
+  },
+  {
+    "PlayerId": 610,
+    "StatisticId": 1448
+  },
+  {
+    "PlayerId": 757,
+    "StatisticId": 1449
+  },
+  {
+    "PlayerId": 787,
+    "StatisticId": 1450
+  },
+  {
+    "PlayerId": 328,
+    "StatisticId": 1451
+  },
+  {
+    "PlayerId": 761,
+    "StatisticId": 1452
+  },
+  {
+    "PlayerId": 390,
+    "StatisticId": 1453
+  },
+  {
+    "PlayerId": 341,
+    "StatisticId": 1454
+  },
+  {
+    "PlayerId": 448,
+    "StatisticId": 1455
+  },
+  {
+    "PlayerId": 611,
+    "StatisticId": 1456
+  },
+  {
+    "PlayerId": 383,
+    "StatisticId": 1457
+  },
+  {
+    "PlayerId": 492,
+    "StatisticId": 1458
+  },
+  {
+    "PlayerId": 332,
+    "StatisticId": 1459
+  },
+  {
+    "PlayerId": 473,
+    "StatisticId": 1460
+  },
+  {
+    "PlayerId": 690,
+    "StatisticId": 1461
+  },
+  {
+    "PlayerId": 692,
+    "StatisticId": 1462
+  },
+  {
+    "PlayerId": 561,
+    "StatisticId": 1463
+  },
+  {
+    "PlayerId": 4846,
+    "StatisticId": 1464
+  },
+  {
+    "PlayerId": 4882,
+    "StatisticId": 1465
+  },
+  {
+    "PlayerId": 4827,
+    "StatisticId": 1466
+  },
+  {
+    "PlayerId": 4823,
+    "StatisticId": 1467
+  },
+  {
+    "PlayerId": 4866,
+    "StatisticId": 1468
+  },
+  {
+    "PlayerId": 4824,
+    "StatisticId": 1469
+  },
+  {
+    "PlayerId": 4885,
+    "StatisticId": 1470
+  },
+  {
+    "PlayerId": 4884,
+    "StatisticId": 1471
+  },
+  {
+    "PlayerId": 4891,
+    "StatisticId": 1472
+  },
+  {
+    "PlayerId": 4875,
+    "StatisticId": 1473
+  },
+  {
+    "PlayerId": 4881,
+    "StatisticId": 1474
+  },
+  {
+    "PlayerId": 4850,
+    "StatisticId": 1475
+  },
+  {
+    "PlayerId": 4883,
+    "StatisticId": 1476
+  },
+  {
+    "PlayerId": 4886,
+    "StatisticId": 1477
+  },
+  {
+    "PlayerId": 4899,
+    "StatisticId": 1478
+  },
+  {
+    "PlayerId": 4888,
+    "StatisticId": 1479
+  },
+  {
+    "PlayerId": 4878,
+    "StatisticId": 1480
+  },
+  {
+    "PlayerId": 4879,
+    "StatisticId": 1481
+  },
+  {
+    "PlayerId": 3229,
+    "StatisticId": 1482
+  },
+  {
+    "PlayerId": 10615,
+    "StatisticId": 1483
+  },
+  {
+    "PlayerId": 6276,
+    "StatisticId": 1484
+  },
+  {
+    "PlayerId": 6294,
+    "StatisticId": 1485
+  },
+  {
+    "PlayerId": 10051,
+    "StatisticId": 1486
+  },
+  {
+    "PlayerId": 6092,
+    "StatisticId": 1487
+  },
+  {
+    "PlayerId": 4584,
+    "StatisticId": 1488
+  },
+  {
+    "PlayerId": 5265,
+    "StatisticId": 1489
+  },
+  {
+    "PlayerId": 1576,
+    "StatisticId": 1490
+  },
+  {
+    "PlayerId": 10804,
+    "StatisticId": 1491
+  },
+  {
+    "PlayerId": 843,
+    "StatisticId": 1492
+  },
+  {
+    "PlayerId": 2159,
+    "StatisticId": 1493
+  },
+  {
+    "PlayerId": 3964,
+    "StatisticId": 1494
+  },
+  {
+    "PlayerId": 4730,
+    "StatisticId": 1495
+  },
+  {
+    "PlayerId": 5491,
+    "StatisticId": 1496
+  },
+  {
+    "PlayerId": 619,
+    "StatisticId": 1497
+  },
+  {
+    "PlayerId": 1278,
+    "StatisticId": 1498
+  },
+  {
+    "PlayerId": 11106,
+    "StatisticId": 1499
+  },
+  {
+    "PlayerId": 9898,
+    "StatisticId": 1500
+  },
+  {
+    "PlayerId": 10925,
+    "StatisticId": 1501
+  },
+  {
+    "PlayerId": 848,
+    "StatisticId": 1502
+  },
+  {
+    "PlayerId": 7761,
+    "StatisticId": 1503
+  },
+  {
+    "PlayerId": 7972,
+    "StatisticId": 1504
+  },
+  {
+    "PlayerId": 7994,
+    "StatisticId": 1505
+  },
+  {
+    "PlayerId": 5815,
+    "StatisticId": 1506
+  },
+  {
+    "PlayerId": 5774,
+    "StatisticId": 1507
+  },
+  {
+    "PlayerId": 5824,
+    "StatisticId": 1508
+  },
+  {
+    "PlayerId": 4574,
+    "StatisticId": 1509
+  },
+  {
+    "PlayerId": 4585,
+    "StatisticId": 1510
+  },
+  {
+    "PlayerId": 4595,
+    "StatisticId": 1511
+  },
+  {
+    "PlayerId": 9149,
+    "StatisticId": 1512
+  },
+  {
+    "PlayerId": 4865,
+    "StatisticId": 1513
+  },
+  {
+    "PlayerId": 6354,
+    "StatisticId": 1514
+  },
+  {
+    "PlayerId": 11020,
+    "StatisticId": 1515
+  },
+  {
+    "PlayerId": 11387,
+    "StatisticId": 1516
+  },
+  {
+    "PlayerId": 5125,
+    "StatisticId": 1517
+  },
+  {
+    "PlayerId": 9305,
+    "StatisticId": 1518
+  },
+  {
+    "PlayerId": 9048,
+    "StatisticId": 1519
+  },
+  {
+    "PlayerId": 5852,
+    "StatisticId": 1520
+  },
+  {
+    "PlayerId": 1008,
+    "StatisticId": 1521
+  },
+  {
+    "PlayerId": 1594,
+    "StatisticId": 1522
+  },
+  {
+    "PlayerId": 11182,
+    "StatisticId": 1523
+  },
+  {
+    "PlayerId": 5416,
+    "StatisticId": 1524
+  },
+  {
+    "PlayerId": 5574,
+    "StatisticId": 1525
+  },
+  {
+    "PlayerId": 5339,
+    "StatisticId": 1526
+  },
+  {
+    "PlayerId": 5501,
+    "StatisticId": 1527
+  },
+  {
+    "PlayerId": 4233,
+    "StatisticId": 1528
+  },
+  {
+    "PlayerId": 4187,
+    "StatisticId": 1529
+  },
+  {
+    "PlayerId": 4345,
+    "StatisticId": 1530
+  },
+  {
+    "PlayerId": 4169,
+    "StatisticId": 1531
+  },
+  {
+    "PlayerId": 1924,
+    "StatisticId": 1532
+  },
+  {
+    "PlayerId": 1718,
+    "StatisticId": 1533
+  },
+  {
+    "PlayerId": 1672,
+    "StatisticId": 1534
+  },
+  {
+    "PlayerId": 1683,
+    "StatisticId": 1535
+  },
+  {
+    "PlayerId": 10659,
+    "StatisticId": 1536
+  },
+  {
+    "PlayerId": 1641,
+    "StatisticId": 1537
+  },
+  {
+    "PlayerId": 10911,
+    "StatisticId": 1538
+  },
+  {
+    "PlayerId": 8408,
+    "StatisticId": 1539
+  },
+  {
+    "PlayerId": 3704,
+    "StatisticId": 1540
+  },
+  {
+    "PlayerId": 1730,
+    "StatisticId": 1541
+  },
+  {
+    "PlayerId": 6418,
+    "StatisticId": 1542
+  },
+  {
+    "PlayerId": 4236,
+    "StatisticId": 1543
+  },
+  {
+    "PlayerId": 7091,
+    "StatisticId": 1544
+  },
+  {
+    "PlayerId": 5490,
+    "StatisticId": 1545
+  },
+  {
+    "PlayerId": 2171,
+    "StatisticId": 1546
+  },
+  {
+    "PlayerId": 7887,
+    "StatisticId": 1547
+  },
+  {
+    "PlayerId": 5635,
+    "StatisticId": 1548
+  },
+  {
+    "PlayerId": 5607,
+    "StatisticId": 1549
+  },
+  {
+    "PlayerId": 5651,
+    "StatisticId": 1550
+  },
+  {
+    "PlayerId": 5654,
+    "StatisticId": 1551
+  },
+  {
+    "PlayerId": 5623,
+    "StatisticId": 1552
+  },
+  {
+    "PlayerId": 5617,
+    "StatisticId": 1553
+  },
+  {
+    "PlayerId": 10947,
+    "StatisticId": 1554
+  },
+  {
+    "PlayerId": 11389,
+    "StatisticId": 1555
+  },
+  {
+    "PlayerId": 11014,
+    "StatisticId": 1556
+  },
+  {
+    "PlayerId": 11259,
+    "StatisticId": 1557
+  },
+  {
+    "PlayerId": 11276,
+    "StatisticId": 1558
+  },
+  {
+    "PlayerId": 11064,
+    "StatisticId": 1559
+  },
+  {
+    "PlayerId": 4195,
+    "StatisticId": 1560
+  },
+  {
+    "PlayerId": 4241,
+    "StatisticId": 1561
+  },
+  {
+    "PlayerId": 4261,
+    "StatisticId": 1562
+  },
+  {
+    "PlayerId": 4010,
+    "StatisticId": 1563
+  },
+  {
+    "PlayerId": 917,
+    "StatisticId": 1564
+  },
+  {
+    "PlayerId": 2715,
+    "StatisticId": 1565
+  },
+  {
+    "PlayerId": 10994,
+    "StatisticId": 1566
+  },
+  {
+    "PlayerId": 7895,
+    "StatisticId": 1567
+  },
+  {
+    "PlayerId": 8220,
+    "StatisticId": 1568
+  },
+  {
+    "PlayerId": 321,
+    "StatisticId": 1569
+  },
+  {
+    "PlayerId": 11126,
+    "StatisticId": 1570
+  },
+  {
+    "PlayerId": 11309,
+    "StatisticId": 1571
+  },
+  {
+    "PlayerId": 367,
+    "StatisticId": 1572
+  },
+  {
+    "PlayerId": 314,
+    "StatisticId": 1573
+  },
+  {
+    "PlayerId": 10287,
+    "StatisticId": 1574
+  },
+  {
+    "PlayerId": 10358,
+    "StatisticId": 1575
+  },
+  {
+    "PlayerId": 2382,
+    "StatisticId": 1576
+  },
+  {
+    "PlayerId": 8915,
+    "StatisticId": 1577
+  },
+  {
+    "PlayerId": 431,
+    "StatisticId": 1578
+  },
+  {
+    "PlayerId": 282,
+    "StatisticId": 1579
+  },
+  {
+    "PlayerId": 7078,
+    "StatisticId": 1580
+  },
+  {
+    "PlayerId": 9014,
+    "StatisticId": 1581
+  },
+  {
+    "PlayerId": 7137,
+    "StatisticId": 1582
+  },
+  {
+    "PlayerId": 7099,
+    "StatisticId": 1583
+  },
+  {
+    "PlayerId": 4048,
+    "StatisticId": 1584
+  },
+  {
+    "PlayerId": 4008,
+    "StatisticId": 1585
+  },
+  {
+    "PlayerId": 4184,
+    "StatisticId": 1586
+  },
+  {
+    "PlayerId": 2578,
+    "StatisticId": 1587
+  },
+  {
+    "PlayerId": 2622,
+    "StatisticId": 1588
+  },
+  {
+    "PlayerId": 9054,
+    "StatisticId": 1589
+  },
+  {
+    "PlayerId": 8958,
+    "StatisticId": 1590
+  },
+  {
+    "PlayerId": 1658,
+    "StatisticId": 1591
+  },
+  {
+    "PlayerId": 1687,
+    "StatisticId": 1592
+  },
+  {
+    "PlayerId": 1696,
+    "StatisticId": 1593
+  },
+  {
+    "PlayerId": 1699,
+    "StatisticId": 1594
+  },
+  {
+    "PlayerId": 1746,
+    "StatisticId": 1595
+  },
+  {
+    "PlayerId": 1762,
+    "StatisticId": 1596
+  },
+  {
+    "PlayerId": 1771,
+    "StatisticId": 1597
+  },
+  {
+    "PlayerId": 1797,
+    "StatisticId": 1598
+  },
+  {
+    "PlayerId": 1824,
+    "StatisticId": 1599
+  },
+  {
+    "PlayerId": 1832,
+    "StatisticId": 1600
+  },
+  {
+    "PlayerId": 1836,
+    "StatisticId": 1601
+  },
+  {
+    "PlayerId": 1868,
+    "StatisticId": 1602
+  },
+  {
+    "PlayerId": 1915,
+    "StatisticId": 1603
+  },
+  {
+    "PlayerId": 1917,
+    "StatisticId": 1604
+  },
+  {
+    "PlayerId": 1923,
+    "StatisticId": 1605
+  },
+  {
+    "PlayerId": 1928,
+    "StatisticId": 1606
+  },
+  {
+    "PlayerId": 1944,
+    "StatisticId": 1607
+  },
+  {
+    "PlayerId": 1947,
+    "StatisticId": 1608
+  },
+  {
+    "PlayerId": 1952,
+    "StatisticId": 1609
+  },
+  {
+    "PlayerId": 1955,
+    "StatisticId": 1610
+  },
+  {
+    "PlayerId": 1988,
+    "StatisticId": 1611
+  },
+  {
+    "PlayerId": 2020,
+    "StatisticId": 1612
+  },
+  {
+    "PlayerId": 10166,
+    "StatisticId": 1613
+  },
+  {
+    "PlayerId": 10119,
+    "StatisticId": 1614
+  },
+  {
+    "PlayerId": 10232,
+    "StatisticId": 1615
+  },
+  {
+    "PlayerId": 10183,
+    "StatisticId": 1616
+  },
+  {
+    "PlayerId": 10118,
+    "StatisticId": 1617
+  },
+  {
+    "PlayerId": 10220,
+    "StatisticId": 1618
+  },
+  {
+    "PlayerId": 10125,
+    "StatisticId": 1619
+  },
+  {
+    "PlayerId": 10156,
+    "StatisticId": 1620
+  },
+  {
+    "PlayerId": 10187,
+    "StatisticId": 1621
+  },
+  {
+    "PlayerId": 10153,
+    "StatisticId": 1622
+  },
+  {
+    "PlayerId": 10117,
+    "StatisticId": 1623
+  },
+  {
+    "PlayerId": 10219,
+    "StatisticId": 1624
+  },
+  {
+    "PlayerId": 10120,
+    "StatisticId": 1625
+  },
+  {
+    "PlayerId": 10165,
+    "StatisticId": 1626
+  },
+  {
+    "PlayerId": 10168,
+    "StatisticId": 1627
+  },
+  {
+    "PlayerId": 10151,
+    "StatisticId": 1628
+  },
+  {
+    "PlayerId": 10132,
+    "StatisticId": 1629
+  },
+  {
+    "PlayerId": 10230,
+    "StatisticId": 1630
+  },
+  {
+    "PlayerId": 10137,
+    "StatisticId": 1631
+  },
+  {
+    "PlayerId": 10167,
+    "StatisticId": 1632
+  },
+  {
+    "PlayerId": 10134,
+    "StatisticId": 1633
+  },
+  {
+    "PlayerId": 10196,
+    "StatisticId": 1634
+  },
+  {
+    "PlayerId": 11227,
+    "StatisticId": 1635
+  },
+  {
+    "PlayerId": 10943,
+    "StatisticId": 1636
+  },
+  {
+    "PlayerId": 11008,
+    "StatisticId": 1637
+  },
+  {
+    "PlayerId": 11243,
+    "StatisticId": 1638
+  },
+  {
+    "PlayerId": 10900,
+    "StatisticId": 1639
+  },
+  {
+    "PlayerId": 11158,
+    "StatisticId": 1640
+  },
+  {
+    "PlayerId": 11170,
+    "StatisticId": 1641
+  },
+  {
+    "PlayerId": 11277,
+    "StatisticId": 1642
+  },
+  {
+    "PlayerId": 11138,
+    "StatisticId": 1643
+  },
+  {
+    "PlayerId": 10974,
+    "StatisticId": 1644
+  },
+  {
+    "PlayerId": 11364,
+    "StatisticId": 1645
+  },
+  {
+    "PlayerId": 10989,
+    "StatisticId": 1646
+  },
+  {
+    "PlayerId": 11214,
+    "StatisticId": 1647
+  },
+  {
+    "PlayerId": 11257,
+    "StatisticId": 1648
+  },
+  {
+    "PlayerId": 11075,
+    "StatisticId": 1649
+  },
+  {
+    "PlayerId": 11436,
+    "StatisticId": 1650
+  },
+  {
+    "PlayerId": 11288,
+    "StatisticId": 1651
+  },
+  {
+    "PlayerId": 11144,
+    "StatisticId": 1652
+  },
+  {
+    "PlayerId": 11323,
+    "StatisticId": 1653
+  },
+  {
+    "PlayerId": 11215,
+    "StatisticId": 1654
+  },
+  {
+    "PlayerId": 10949,
+    "StatisticId": 1655
+  },
+  {
+    "PlayerId": 11056,
+    "StatisticId": 1656
+  },
+  {
+    "PlayerId": 7143,
+    "StatisticId": 1657
+  },
+  {
+    "PlayerId": 7155,
+    "StatisticId": 1658
+  },
+  {
+    "PlayerId": 7163,
+    "StatisticId": 1659
+  },
+  {
+    "PlayerId": 7174,
+    "StatisticId": 1660
+  },
+  {
+    "PlayerId": 7201,
+    "StatisticId": 1661
+  },
+  {
+    "PlayerId": 7246,
+    "StatisticId": 1662
+  },
+  {
+    "PlayerId": 7253,
+    "StatisticId": 1663
+  },
+  {
+    "PlayerId": 7269,
+    "StatisticId": 1664
+  },
+  {
+    "PlayerId": 7281,
+    "StatisticId": 1665
+  },
+  {
+    "PlayerId": 7013,
+    "StatisticId": 1666
+  },
+  {
+    "PlayerId": 7056,
+    "StatisticId": 1667
+  },
+  {
+    "PlayerId": 7061,
+    "StatisticId": 1668
+  },
+  {
+    "PlayerId": 7111,
+    "StatisticId": 1669
+  },
+  {
+    "PlayerId": 7124,
+    "StatisticId": 1670
+  },
+  {
+    "PlayerId": 7125,
+    "StatisticId": 1671
+  },
+  {
+    "PlayerId": 7138,
+    "StatisticId": 1672
+  },
+  {
+    "PlayerId": 257,
+    "StatisticId": 1673
+  },
+  {
+    "PlayerId": 93,
+    "StatisticId": 1674
+  },
+  {
+    "PlayerId": 91,
+    "StatisticId": 1675
+  },
+  {
+    "PlayerId": 198,
+    "StatisticId": 1676
+  },
+  {
+    "PlayerId": 161,
+    "StatisticId": 1677
+  },
+  {
+    "PlayerId": 172,
+    "StatisticId": 1678
+  },
+  {
+    "PlayerId": 229,
+    "StatisticId": 1679
+  },
+  {
+    "PlayerId": 261,
+    "StatisticId": 1680
+  },
+  {
+    "PlayerId": 244,
+    "StatisticId": 1681
+  },
+  {
+    "PlayerId": 132,
+    "StatisticId": 1682
+  },
+  {
+    "PlayerId": 162,
+    "StatisticId": 1683
+  },
+  {
+    "PlayerId": 265,
+    "StatisticId": 1684
+  },
+  {
+    "PlayerId": 160,
+    "StatisticId": 1685
+  },
+  {
+    "PlayerId": 148,
+    "StatisticId": 1686
+  },
+  {
+    "PlayerId": 104,
+    "StatisticId": 1687
+  },
+  {
+    "PlayerId": 242,
+    "StatisticId": 1688
+  },
+  {
+    "PlayerId": 185,
+    "StatisticId": 1689
+  },
+  {
+    "PlayerId": 228,
+    "StatisticId": 1690
+  },
+  {
+    "PlayerId": 4007,
+    "StatisticId": 1691
+  },
+  {
+    "PlayerId": 4013,
+    "StatisticId": 1692
+  },
+  {
+    "PlayerId": 4071,
+    "StatisticId": 1693
+  },
+  {
+    "PlayerId": 4155,
+    "StatisticId": 1694
+  },
+  {
+    "PlayerId": 4180,
+    "StatisticId": 1695
+  },
+  {
+    "PlayerId": 4211,
+    "StatisticId": 1696
+  },
+  {
+    "PlayerId": 4214,
+    "StatisticId": 1697
+  },
+  {
+    "PlayerId": 4249,
+    "StatisticId": 1698
+  },
+  {
+    "PlayerId": 4256,
+    "StatisticId": 1699
+  },
+  {
+    "PlayerId": 4260,
+    "StatisticId": 1700
+  },
+  {
+    "PlayerId": 4275,
+    "StatisticId": 1701
+  },
+  {
+    "PlayerId": 4285,
+    "StatisticId": 1702
+  },
+  {
+    "PlayerId": 4336,
+    "StatisticId": 1703
+  },
+  {
+    "PlayerId": 4341,
+    "StatisticId": 1704
+  },
+  {
+    "PlayerId": 4346,
+    "StatisticId": 1705
+  },
+  {
+    "PlayerId": 4370,
+    "StatisticId": 1706
+  },
+  {
+    "PlayerId": 5877,
+    "StatisticId": 1707
+  },
+  {
+    "PlayerId": 10024,
+    "StatisticId": 1708
+  },
+  {
+    "PlayerId": 10622,
+    "StatisticId": 1709
+  },
+  {
+    "PlayerId": 11402,
+    "StatisticId": 1710
+  },
+  {
+    "PlayerId": 5272,
+    "StatisticId": 1711
+  },
+  {
+    "PlayerId": 867,
+    "StatisticId": 1712
+  },
+  {
+    "PlayerId": 4646,
+    "StatisticId": 1713
+  },
+  {
+    "PlayerId": 10702,
+    "StatisticId": 1714
+  },
+  {
+    "PlayerId": 9418,
+    "StatisticId": 1715
+  },
+  {
+    "PlayerId": 8094,
+    "StatisticId": 1716
+  },
+  {
+    "PlayerId": 2862,
+    "StatisticId": 1717
+  },
+  {
+    "PlayerId": 10563,
+    "StatisticId": 1718
+  },
+  {
+    "PlayerId": 4114,
+    "StatisticId": 1719
+  },
+  {
+    "PlayerId": 6570,
+    "StatisticId": 1720
+  },
+  {
+    "PlayerId": 4677,
+    "StatisticId": 1721
+  },
+  {
+    "PlayerId": 9527,
+    "StatisticId": 1722
+  },
+  {
+    "PlayerId": 6020,
+    "StatisticId": 1723
+  },
+  {
+    "PlayerId": 6018,
+    "StatisticId": 1724
+  },
+  {
+    "PlayerId": 7920,
+    "StatisticId": 1725
+  },
+  {
+    "PlayerId": 8060,
+    "StatisticId": 1726
+  },
+  {
+    "PlayerId": 7790,
+    "StatisticId": 1727
+  },
+  {
+    "PlayerId": 3828,
+    "StatisticId": 1728
+  },
+  {
+    "PlayerId": 3601,
+    "StatisticId": 1729
+  },
+  {
+    "PlayerId": 3647,
+    "StatisticId": 1730
+  },
+  {
+    "PlayerId": 6017,
+    "StatisticId": 1731
+  },
+  {
+    "PlayerId": 5746,
+    "StatisticId": 1732
+  },
+  {
+    "PlayerId": 5953,
+    "StatisticId": 1733
+  },
+  {
+    "PlayerId": 11375,
+    "StatisticId": 1734
+  },
+  {
+    "PlayerId": 3561,
+    "StatisticId": 1735
+  },
+  {
+    "PlayerId": 5126,
+    "StatisticId": 1736
+  },
+  {
+    "PlayerId": 10532,
+    "StatisticId": 1737
+  },
+  {
+    "PlayerId": 9115,
+    "StatisticId": 1738
+  },
+  {
+    "PlayerId": 994,
+    "StatisticId": 1739
+  },
+  {
+    "PlayerId": 10944,
+    "StatisticId": 1740
+  },
+  {
+    "PlayerId": 11483,
+    "StatisticId": 1741
+  },
+  {
+    "PlayerId": 5966,
+    "StatisticId": 1742
+  },
+  {
+    "PlayerId": 7931,
+    "StatisticId": 1743
+  },
+  {
+    "PlayerId": 995,
+    "StatisticId": 1744
+  },
+  {
+    "PlayerId": 6859,
+    "StatisticId": 1745
+  },
+  {
+    "PlayerId": 9087,
+    "StatisticId": 1746
+  },
+  {
+    "PlayerId": 8977,
+    "StatisticId": 1747
+  },
+  {
+    "PlayerId": 9060,
+    "StatisticId": 1748
+  },
+  {
+    "PlayerId": 9107,
+    "StatisticId": 1749
+  },
+  {
+    "PlayerId": 8882,
+    "StatisticId": 1750
+  },
+  {
+    "PlayerId": 8922,
+    "StatisticId": 1751
+  },
+  {
+    "PlayerId": 8980,
+    "StatisticId": 1752
+  },
+  {
+    "PlayerId": 9113,
+    "StatisticId": 1753
+  },
+  {
+    "PlayerId": 7969,
+    "StatisticId": 1754
+  },
+  {
+    "PlayerId": 7794,
+    "StatisticId": 1755
+  },
+  {
+    "PlayerId": 7832,
+    "StatisticId": 1756
+  },
+  {
+    "PlayerId": 7808,
+    "StatisticId": 1757
+  },
+  {
+    "PlayerId": 7874,
+    "StatisticId": 1758
+  },
+  {
+    "PlayerId": 8092,
+    "StatisticId": 1759
+  },
+  {
+    "PlayerId": 8042,
+    "StatisticId": 1760
+  },
+  {
+    "PlayerId": 8000,
+    "StatisticId": 1761
+  },
+  {
+    "PlayerId": 10694,
+    "StatisticId": 1762
+  },
+  {
+    "PlayerId": 10817,
+    "StatisticId": 1763
+  },
+  {
+    "PlayerId": 10674,
+    "StatisticId": 1764
+  },
+  {
+    "PlayerId": 10673,
+    "StatisticId": 1765
+  },
+  {
+    "PlayerId": 10781,
+    "StatisticId": 1766
+  },
+  {
+    "PlayerId": 10794,
+    "StatisticId": 1767
+  },
+  {
+    "PlayerId": 10802,
+    "StatisticId": 1768
+  },
+  {
+    "PlayerId": 10787,
+    "StatisticId": 1769
+  },
+  {
+    "PlayerId": 7640,
+    "StatisticId": 1770
+  },
+  {
+    "PlayerId": 6398,
+    "StatisticId": 1771
+  },
+  {
+    "PlayerId": 4186,
+    "StatisticId": 1772
+  },
+  {
+    "PlayerId": 11311,
+    "StatisticId": 1773
+  },
+  {
+    "PlayerId": 10872,
+    "StatisticId": 1774
+  },
+  {
+    "PlayerId": 11378,
+    "StatisticId": 1775
+  },
+  {
+    "PlayerId": 11251,
+    "StatisticId": 1776
+  },
+  {
+    "PlayerId": 10954,
+    "StatisticId": 1777
+  },
+  {
+    "PlayerId": 10912,
+    "StatisticId": 1778
+  },
+  {
+    "PlayerId": 11250,
+    "StatisticId": 1779
+  },
+  {
+    "PlayerId": 7238,
+    "StatisticId": 1780
+  },
+  {
+    "PlayerId": 7012,
+    "StatisticId": 1781
+  },
+  {
+    "PlayerId": 7014,
+    "StatisticId": 1782
+  },
+  {
+    "PlayerId": 7031,
+    "StatisticId": 1783
+  },
+  {
+    "PlayerId": 7069,
+    "StatisticId": 1784
+  },
+  {
+    "PlayerId": 1238,
+    "StatisticId": 1785
+  },
+  {
+    "PlayerId": 1243,
+    "StatisticId": 1786
+  },
+  {
+    "PlayerId": 1246,
+    "StatisticId": 1787
+  },
+  {
+    "PlayerId": 1242,
+    "StatisticId": 1788
+  },
+  {
+    "PlayerId": 4796,
+    "StatisticId": 1789
+  },
+  {
+    "PlayerId": 2539,
+    "StatisticId": 1790
+  },
+  {
+    "PlayerId": 2541,
+    "StatisticId": 1791
+  },
+  {
+    "PlayerId": 7091,
+    "StatisticId": 1792
+  },
+  {
+    "PlayerId": 944,
+    "StatisticId": 1793
+  },
+  {
+    "PlayerId": 3027,
+    "StatisticId": 1794
+  },
+  {
+    "PlayerId": 11428,
+    "StatisticId": 1795
+  },
+  {
+    "PlayerId": 10983,
+    "StatisticId": 1796
+  },
+  {
+    "PlayerId": 11235,
+    "StatisticId": 1797
+  },
+  {
+    "PlayerId": 11203,
+    "StatisticId": 1798
+  },
+  {
+    "PlayerId": 11088,
+    "StatisticId": 1799
+  },
+  {
+    "PlayerId": 11104,
+    "StatisticId": 1800
+  },
+  {
+    "PlayerId": 11232,
+    "StatisticId": 1801
+  },
+  {
+    "PlayerId": 10994,
+    "StatisticId": 1802
+  },
+  {
+    "PlayerId": 8273,
+    "StatisticId": 1803
+  },
+  {
+    "PlayerId": 8289,
+    "StatisticId": 1804
+  },
+  {
+    "PlayerId": 8405,
+    "StatisticId": 1805
+  },
+  {
+    "PlayerId": 8227,
+    "StatisticId": 1806
+  },
+  {
+    "PlayerId": 8282,
+    "StatisticId": 1807
+  },
+  {
+    "PlayerId": 5604,
+    "StatisticId": 1808
+  },
+  {
+    "PlayerId": 5623,
+    "StatisticId": 1809
+  },
+  {
+    "PlayerId": 5643,
+    "StatisticId": 1810
+  },
+  {
+    "PlayerId": 5656,
+    "StatisticId": 1811
+  },
+  {
+    "PlayerId": 5630,
+    "StatisticId": 1812
+  },
+  {
+    "PlayerId": 5631,
+    "StatisticId": 1813
+  },
+  {
+    "PlayerId": 9002,
+    "StatisticId": 1814
+  },
+  {
+    "PlayerId": 571,
+    "StatisticId": 1815
+  },
+  {
+    "PlayerId": 10746,
+    "StatisticId": 1816
+  },
+  {
+    "PlayerId": 6404,
+    "StatisticId": 1817
+  },
+  {
+    "PlayerId": 6422,
+    "StatisticId": 1818
+  },
+  {
+    "PlayerId": 11338,
+    "StatisticId": 1819
+  },
+  {
+    "PlayerId": 6068,
+    "StatisticId": 1820
+  },
+  {
+    "PlayerId": 6242,
+    "StatisticId": 1821
+  },
+  {
+    "PlayerId": 5833,
+    "StatisticId": 1822
+  },
+  {
+    "PlayerId": 6202,
+    "StatisticId": 1823
+  },
+  {
+    "PlayerId": 5960,
+    "StatisticId": 1824
+  },
+  {
+    "PlayerId": 5861,
+    "StatisticId": 1825
+  },
+  {
+    "PlayerId": 6128,
+    "StatisticId": 1826
+  },
+  {
+    "PlayerId": 6028,
+    "StatisticId": 1827
+  },
+  {
+    "PlayerId": 6226,
+    "StatisticId": 1828
+  },
+  {
+    "PlayerId": 5971,
+    "StatisticId": 1829
+  },
+  {
+    "PlayerId": 5730,
+    "StatisticId": 1830
+  },
+  {
+    "PlayerId": 6133,
+    "StatisticId": 1831
+  },
+  {
+    "PlayerId": 6083,
+    "StatisticId": 1832
+  },
+  {
+    "PlayerId": 5835,
+    "StatisticId": 1833
+  },
+  {
+    "PlayerId": 6254,
+    "StatisticId": 1834
+  },
+  {
+    "PlayerId": 5890,
+    "StatisticId": 1835
+  },
+  {
+    "PlayerId": 5688,
+    "StatisticId": 1836
+  },
+  {
+    "PlayerId": 6236,
+    "StatisticId": 1837
+  },
+  {
+    "PlayerId": 6261,
+    "StatisticId": 1838
+  },
+  {
+    "PlayerId": 5675,
+    "StatisticId": 1839
+  },
+  {
+    "PlayerId": 5899,
+    "StatisticId": 1840
+  },
+  {
+    "PlayerId": 5900,
+    "StatisticId": 1841
+  },
+  {
+    "PlayerId": 5827,
+    "StatisticId": 1842
+  },
+  {
+    "PlayerId": 6159,
+    "StatisticId": 1843
+  },
+  {
+    "PlayerId": 10906,
+    "StatisticId": 1844
+  },
+  {
+    "PlayerId": 10961,
+    "StatisticId": 1845
+  },
+  {
+    "PlayerId": 11303,
+    "StatisticId": 1846
+  },
+  {
+    "PlayerId": 10844,
+    "StatisticId": 1847
+  },
+  {
+    "PlayerId": 11094,
+    "StatisticId": 1848
+  },
+  {
+    "PlayerId": 11184,
+    "StatisticId": 1849
+  },
+  {
+    "PlayerId": 11010,
+    "StatisticId": 1850
+  },
+  {
+    "PlayerId": 10907,
+    "StatisticId": 1851
+  },
+  {
+    "PlayerId": 10997,
+    "StatisticId": 1852
+  },
+  {
+    "PlayerId": 10992,
+    "StatisticId": 1853
+  },
+  {
+    "PlayerId": 10841,
+    "StatisticId": 1854
+  },
+  {
+    "PlayerId": 11423,
+    "StatisticId": 1855
+  },
+  {
+    "PlayerId": 11131,
+    "StatisticId": 1856
+  },
+  {
+    "PlayerId": 10856,
+    "StatisticId": 1857
+  },
+  {
+    "PlayerId": 11451,
+    "StatisticId": 1858
+  },
+  {
+    "PlayerId": 11315,
+    "StatisticId": 1859
+  },
+  {
+    "PlayerId": 10867,
+    "StatisticId": 1860
+  },
+  {
+    "PlayerId": 11370,
+    "StatisticId": 1861
+  },
+  {
+    "PlayerId": 11162,
+    "StatisticId": 1862
+  },
+  {
+    "PlayerId": 11024,
+    "StatisticId": 1863
+  },
+  {
+    "PlayerId": 11112,
+    "StatisticId": 1864
+  },
+  {
+    "PlayerId": 11202,
+    "StatisticId": 1865
+  },
+  {
+    "PlayerId": 11124,
+    "StatisticId": 1866
+  },
+  {
+    "PlayerId": 11317,
+    "StatisticId": 1867
+  },
+  {
+    "PlayerId": 2693,
+    "StatisticId": 1868
+  },
+  {
+    "PlayerId": 2678,
+    "StatisticId": 1869
+  },
+  {
+    "PlayerId": 2711,
+    "StatisticId": 1870
+  },
+  {
+    "PlayerId": 2723,
+    "StatisticId": 1871
+  },
+  {
+    "PlayerId": 2725,
+    "StatisticId": 1872
+  },
+  {
+    "PlayerId": 2731,
+    "StatisticId": 1873
+  },
+  {
+    "PlayerId": 2672,
+    "StatisticId": 1874
+  },
+  {
+    "PlayerId": 2728,
+    "StatisticId": 1875
+  },
+  {
+    "PlayerId": 2710,
+    "StatisticId": 1876
+  },
+  {
+    "PlayerId": 2669,
+    "StatisticId": 1877
+  },
+  {
+    "PlayerId": 2670,
+    "StatisticId": 1878
+  },
+  {
+    "PlayerId": 2671,
+    "StatisticId": 1879
+  },
+  {
+    "PlayerId": 2676,
+    "StatisticId": 1880
+  },
+  {
+    "PlayerId": 2717,
+    "StatisticId": 1881
+  },
+  {
+    "PlayerId": 2701,
+    "StatisticId": 1882
+  },
+  {
+    "PlayerId": 2713,
+    "StatisticId": 1883
+  },
+  {
+    "PlayerId": 2732,
+    "StatisticId": 1884
+  },
+  {
+    "PlayerId": 2695,
+    "StatisticId": 1885
+  },
+  {
+    "PlayerId": 2709,
+    "StatisticId": 1886
+  },
+  {
+    "PlayerId": 2721,
+    "StatisticId": 1887
+  },
+  {
+    "PlayerId": 2673,
+    "StatisticId": 1888
+  },
+  {
+    "PlayerId": 2674,
+    "StatisticId": 1889
+  },
+  {
+    "PlayerId": 2684,
+    "StatisticId": 1890
+  },
+  {
+    "PlayerId": 2691,
+    "StatisticId": 1891
+  },
+  {
+    "PlayerId": 11201,
+    "StatisticId": 1892
+  },
+  {
+    "PlayerId": 11216,
+    "StatisticId": 1893
+  },
+  {
+    "PlayerId": 11385,
+    "StatisticId": 1894
+  },
+  {
+    "PlayerId": 10976,
+    "StatisticId": 1895
+  },
+  {
+    "PlayerId": 10880,
+    "StatisticId": 1896
+  },
+  {
+    "PlayerId": 11031,
+    "StatisticId": 1897
+  },
+  {
+    "PlayerId": 11155,
+    "StatisticId": 1898
+  },
+  {
+    "PlayerId": 11027,
+    "StatisticId": 1899
+  },
+  {
+    "PlayerId": 11145,
+    "StatisticId": 1900
+  },
+  {
+    "PlayerId": 11066,
+    "StatisticId": 1901
+  },
+  {
+    "PlayerId": 11103,
+    "StatisticId": 1902
+  },
+  {
+    "PlayerId": 10836,
+    "StatisticId": 1903
+  },
+  {
+    "PlayerId": 3224,
+    "StatisticId": 1904
+  },
+  {
+    "PlayerId": 3134,
+    "StatisticId": 1905
+  },
+  {
+    "PlayerId": 3313,
+    "StatisticId": 1906
+  },
+  {
+    "PlayerId": 3426,
+    "StatisticId": 1907
+  },
+  {
+    "PlayerId": 3234,
+    "StatisticId": 1908
+  },
+  {
+    "PlayerId": 3271,
+    "StatisticId": 1909
+  },
+  {
+    "PlayerId": 3157,
+    "StatisticId": 1910
+  },
+  {
+    "PlayerId": 3380,
+    "StatisticId": 1911
+  },
+  {
+    "PlayerId": 3520,
+    "StatisticId": 1912
+  },
+  {
+    "PlayerId": 3261,
+    "StatisticId": 1913
+  },
+  {
+    "PlayerId": 3284,
+    "StatisticId": 1914
+  },
+  {
+    "PlayerId": 3450,
+    "StatisticId": 1915
+  },
+  {
+    "PlayerId": 452,
+    "StatisticId": 1916
+  },
+  {
+    "PlayerId": 327,
+    "StatisticId": 1917
+  },
+  {
+    "PlayerId": 395,
+    "StatisticId": 1918
+  },
+  {
+    "PlayerId": 416,
+    "StatisticId": 1919
+  },
+  {
+    "PlayerId": 447,
+    "StatisticId": 1920
+  },
+  {
+    "PlayerId": 505,
+    "StatisticId": 1921
+  },
+  {
+    "PlayerId": 511,
+    "StatisticId": 1922
+  },
+  {
+    "PlayerId": 526,
+    "StatisticId": 1923
+  },
+  {
+    "PlayerId": 591,
+    "StatisticId": 1924
+  },
+  {
+    "PlayerId": 726,
+    "StatisticId": 1925
+  },
+  {
+    "PlayerId": 658,
+    "StatisticId": 1926
+  },
+  {
+    "PlayerId": 699,
+    "StatisticId": 1927
+  },
+  {
+    "PlayerId": 7657,
+    "StatisticId": 1928
+  },
+  {
+    "PlayerId": 7679,
+    "StatisticId": 1929
+  },
+  {
+    "PlayerId": 8990,
+    "StatisticId": 1930
+  },
+  {
+    "PlayerId": 9134,
+    "StatisticId": 1931
+  },
+  {
+    "PlayerId": 8580,
+    "StatisticId": 1932
+  },
+  {
+    "PlayerId": 8579,
+    "StatisticId": 1933
+  },
+  {
+    "PlayerId": 4388,
+    "StatisticId": 1934
+  },
+  {
+    "PlayerId": 8208,
+    "StatisticId": 1935
+  },
+  {
+    "PlayerId": 1526,
+    "StatisticId": 1936
+  },
+  {
+    "PlayerId": 10715,
+    "StatisticId": 1937
+  },
+  {
+    "PlayerId": 1588,
+    "StatisticId": 1938
+  },
+  {
+    "PlayerId": 10556,
+    "StatisticId": 1939
+  },
+  {
+    "PlayerId": 10623,
+    "StatisticId": 1940
+  },
+  {
+    "PlayerId": 7805,
+    "StatisticId": 1941
+  },
+  {
+    "PlayerId": 1477,
+    "StatisticId": 1942
+  },
+  {
+    "PlayerId": 7886,
+    "StatisticId": 1943
+  },
+  {
+    "PlayerId": 8837,
+    "StatisticId": 1944
+  },
+  {
+    "PlayerId": 3773,
+    "StatisticId": 1945
+  },
+  {
+    "PlayerId": 3778,
+    "StatisticId": 1946
+  },
+  {
+    "PlayerId": 3848,
+    "StatisticId": 1947
+  },
+  {
+    "PlayerId": 3852,
+    "StatisticId": 1948
+  },
+  {
+    "PlayerId": 9772,
+    "StatisticId": 1949
+  },
+  {
+    "PlayerId": 9828,
+    "StatisticId": 1950
+  },
+  {
+    "PlayerId": 9893,
+    "StatisticId": 1951
+  },
+  {
+    "PlayerId": 10085,
+    "StatisticId": 1952
+  },
+  {
+    "PlayerId": 9474,
+    "StatisticId": 1953
+  },
+  {
+    "PlayerId": 9479,
+    "StatisticId": 1954
+  },
+  {
+    "PlayerId": 9496,
+    "StatisticId": 1955
+  },
+  {
+    "PlayerId": 9511,
+    "StatisticId": 1956
+  },
+  {
+    "PlayerId": 7967,
+    "StatisticId": 1957
+  },
+  {
+    "PlayerId": 8055,
+    "StatisticId": 1958
+  },
+  {
+    "PlayerId": 10743,
+    "StatisticId": 1959
+  },
+  {
+    "PlayerId": 10690,
+    "StatisticId": 1960
+  },
+  {
+    "PlayerId": 1991,
+    "StatisticId": 1961
+  },
+  {
+    "PlayerId": 1990,
+    "StatisticId": 1962
+  },
+  {
+    "PlayerId": 4616,
+    "StatisticId": 1963
+  },
+  {
+    "PlayerId": 4681,
+    "StatisticId": 1964
+  },
+  {
+    "PlayerId": 4625,
+    "StatisticId": 1965
+  },
+  {
+    "PlayerId": 4661,
+    "StatisticId": 1966
+  },
+  {
+    "PlayerId": 1012,
+    "StatisticId": 1967
+  },
+  {
+    "PlayerId": 1016,
+    "StatisticId": 1968
+  },
+  {
+    "PlayerId": 1035,
+    "StatisticId": 1969
+  },
+  {
+    "PlayerId": 1004,
+    "StatisticId": 1970
+  },
+  {
+    "PlayerId": 8347,
+    "StatisticId": 1971
+  },
+  {
+    "PlayerId": 8374,
+    "StatisticId": 1972
+  },
+  {
+    "PlayerId": 8275,
+    "StatisticId": 1973
+  },
+  {
+    "PlayerId": 8419,
+    "StatisticId": 1974
+  },
+  {
+    "PlayerId": 2592,
+    "StatisticId": 1975
+  },
+  {
+    "PlayerId": 2632,
+    "StatisticId": 1976
+  },
+  {
+    "PlayerId": 4356,
+    "StatisticId": 1977
+  },
+  {
+    "PlayerId": 4146,
+    "StatisticId": 1978
+  },
+  {
+    "PlayerId": 3293,
+    "StatisticId": 1979
+  },
+  {
+    "PlayerId": 3490,
+    "StatisticId": 1980
+  },
+  {
+    "PlayerId": 7750,
+    "StatisticId": 1981
+  },
+  {
+    "PlayerId": 8074,
+    "StatisticId": 1982
+  },
+  {
+    "PlayerId": 4074,
+    "StatisticId": 1983
+  },
+  {
+    "PlayerId": 10244,
+    "StatisticId": 1984
+  },
+  {
+    "PlayerId": 10122,
+    "StatisticId": 1985
+  },
+  {
+    "PlayerId": 10155,
+    "StatisticId": 1986
+  },
+  {
+    "PlayerId": 11367,
+    "StatisticId": 1987
+  },
+  {
+    "PlayerId": 11137,
+    "StatisticId": 1988
+  },
+  {
+    "PlayerId": 11417,
+    "StatisticId": 1989
+  },
+  {
+    "PlayerId": 1117,
+    "StatisticId": 1990
+  },
+  {
+    "PlayerId": 1130,
+    "StatisticId": 1991
+  },
+  {
+    "PlayerId": 1200,
+    "StatisticId": 1992
+  },
+  {
+    "PlayerId": 1309,
+    "StatisticId": 1993
+  },
+  {
+    "PlayerId": 1497,
+    "StatisticId": 1994
+  },
+  {
+    "PlayerId": 1261,
+    "StatisticId": 1995
+  },
+  {
+    "PlayerId": 1247,
+    "StatisticId": 1996
+  },
+  {
+    "PlayerId": 1293,
+    "StatisticId": 1997
+  },
+  {
+    "PlayerId": 1376,
+    "StatisticId": 1998
+  },
+  {
+    "PlayerId": 1389,
+    "StatisticId": 1999
+  },
+  {
+    "PlayerId": 1356,
+    "StatisticId": 2000
+  },
+  {
+    "PlayerId": 1253,
+    "StatisticId": 2001
+  },
+  {
+    "PlayerId": 1346,
+    "StatisticId": 2002
+  },
+  {
+    "PlayerId": 1264,
+    "StatisticId": 2003
+  },
+  {
+    "PlayerId": 1442,
+    "StatisticId": 2004
+  },
+  {
+    "PlayerId": 1426,
+    "StatisticId": 2005
+  },
+  {
+    "PlayerId": 1415,
+    "StatisticId": 2006
+  },
+  {
+    "PlayerId": 1321,
+    "StatisticId": 2007
+  },
+  {
+    "PlayerId": 1455,
+    "StatisticId": 2008
+  },
+  {
+    "PlayerId": 1419,
+    "StatisticId": 2009
+  },
+  {
+    "PlayerId": 1431,
+    "StatisticId": 2010
+  },
+  {
+    "PlayerId": 1464,
+    "StatisticId": 2011
+  },
+  {
+    "PlayerId": 1484,
+    "StatisticId": 2012
+  },
+  {
+    "PlayerId": 1481,
+    "StatisticId": 2013
+  },
+  {
+    "PlayerId": 1384,
+    "StatisticId": 2014
+  },
+  {
+    "PlayerId": 10091,
+    "StatisticId": 2015
+  },
+  {
+    "PlayerId": 9896,
+    "StatisticId": 2016
+  },
+  {
+    "PlayerId": 9974,
+    "StatisticId": 2017
+  },
+  {
+    "PlayerId": 9774,
+    "StatisticId": 2018
+  },
+  {
+    "PlayerId": 9815,
+    "StatisticId": 2019
+  },
+  {
+    "PlayerId": 9830,
+    "StatisticId": 2020
+  },
+  {
+    "PlayerId": 9894,
+    "StatisticId": 2021
+  },
+  {
+    "PlayerId": 9909,
+    "StatisticId": 2022
+  },
+  {
+    "PlayerId": 9853,
+    "StatisticId": 2023
+  },
+  {
+    "PlayerId": 10070,
+    "StatisticId": 2024
+  },
+  {
+    "PlayerId": 9875,
+    "StatisticId": 2025
+  },
+  {
+    "PlayerId": 9973,
+    "StatisticId": 2026
+  },
+  {
+    "PlayerId": 9976,
+    "StatisticId": 2027
+  },
+  {
+    "PlayerId": 9977,
+    "StatisticId": 2028
+  },
+  {
+    "PlayerId": 9979,
+    "StatisticId": 2029
+  },
+  {
+    "PlayerId": 9990,
+    "StatisticId": 2030
+  },
+  {
+    "PlayerId": 9995,
+    "StatisticId": 2031
+  },
+  {
+    "PlayerId": 10020,
+    "StatisticId": 2032
+  },
+  {
+    "PlayerId": 10058,
+    "StatisticId": 2033
+  },
+  {
+    "PlayerId": 10060,
+    "StatisticId": 2034
+  },
+  {
+    "PlayerId": 10079,
+    "StatisticId": 2035
+  },
+  {
+    "PlayerId": 10084,
+    "StatisticId": 2036
+  },
+  {
+    "PlayerId": 6770,
+    "StatisticId": 2037
+  },
+  {
+    "PlayerId": 6769,
+    "StatisticId": 2038
+  },
+  {
+    "PlayerId": 6698,
+    "StatisticId": 2039
+  },
+  {
+    "PlayerId": 6707,
+    "StatisticId": 2040
+  },
+  {
+    "PlayerId": 6690,
+    "StatisticId": 2041
+  },
+  {
+    "PlayerId": 6691,
+    "StatisticId": 2042
+  },
+  {
+    "PlayerId": 6693,
+    "StatisticId": 2043
+  },
+  {
+    "PlayerId": 6697,
+    "StatisticId": 2044
+  },
+  {
+    "PlayerId": 6699,
+    "StatisticId": 2045
+  },
+  {
+    "PlayerId": 6724,
+    "StatisticId": 2046
+  },
+  {
+    "PlayerId": 6736,
+    "StatisticId": 2047
+  },
+  {
+    "PlayerId": 6760,
+    "StatisticId": 2048
+  },
+  {
+    "PlayerId": 6761,
+    "StatisticId": 2049
+  },
+  {
+    "PlayerId": 6768,
+    "StatisticId": 2050
+  },
+  {
+    "PlayerId": 6775,
+    "StatisticId": 2051
+  },
+  {
+    "PlayerId": 6776,
+    "StatisticId": 2052
+  },
+  {
+    "PlayerId": 6784,
+    "StatisticId": 2053
+  },
+  {
+    "PlayerId": 6813,
+    "StatisticId": 2054
+  },
+  {
+    "PlayerId": 6820,
+    "StatisticId": 2055
+  },
+  {
+    "PlayerId": 6825,
+    "StatisticId": 2056
+  },
+  {
+    "PlayerId": 6840,
+    "StatisticId": 2057
+  },
+  {
+    "PlayerId": 6843,
+    "StatisticId": 2058
+  },
+  {
+    "PlayerId": 11133,
+    "StatisticId": 2059
+  },
+  {
+    "PlayerId": 5806,
+    "StatisticId": 2060
+  },
+  {
+    "PlayerId": 7397,
+    "StatisticId": 2061
+  },
+  {
+    "PlayerId": 3129,
+    "StatisticId": 2062
+  },
+  {
+    "PlayerId": 3245,
+    "StatisticId": 2063
+  },
+  {
+    "PlayerId": 3259,
+    "StatisticId": 2064
+  },
+  {
+    "PlayerId": 3278,
+    "StatisticId": 2065
+  },
+  {
+    "PlayerId": 3279,
+    "StatisticId": 2066
+  },
+  {
+    "PlayerId": 3300,
+    "StatisticId": 2067
+  },
+  {
+    "PlayerId": 3334,
+    "StatisticId": 2068
+  },
+  {
+    "PlayerId": 3333,
+    "StatisticId": 2069
+  },
+  {
+    "PlayerId": 3347,
+    "StatisticId": 2070
+  },
+  {
+    "PlayerId": 3381,
+    "StatisticId": 2071
+  },
+  {
+    "PlayerId": 3396,
+    "StatisticId": 2072
+  },
+  {
+    "PlayerId": 3420,
+    "StatisticId": 2073
+  },
+  {
+    "PlayerId": 3452,
+    "StatisticId": 2074
+  },
+  {
+    "PlayerId": 3460,
+    "StatisticId": 2075
+  },
+  {
+    "PlayerId": 3462,
+    "StatisticId": 2076
+  },
+  {
+    "PlayerId": 3498,
+    "StatisticId": 2077
+  },
+  {
+    "PlayerId": 2557,
+    "StatisticId": 2078
+  },
+  {
+    "PlayerId": 2585,
+    "StatisticId": 2079
+  },
+  {
+    "PlayerId": 2591,
+    "StatisticId": 2080
+  },
+  {
+    "PlayerId": 2598,
+    "StatisticId": 2081
+  },
+  {
+    "PlayerId": 2605,
+    "StatisticId": 2082
+  },
+  {
+    "PlayerId": 2619,
+    "StatisticId": 2083
+  },
+  {
+    "PlayerId": 2620,
+    "StatisticId": 2084
+  },
+  {
+    "PlayerId": 2626,
+    "StatisticId": 2085
+  },
+  {
+    "PlayerId": 2630,
+    "StatisticId": 2086
+  },
+  {
+    "PlayerId": 2642,
+    "StatisticId": 2087
+  },
+  {
+    "PlayerId": 2654,
+    "StatisticId": 2088
+  },
+  {
+    "PlayerId": 2659,
+    "StatisticId": 2089
+  },
+  {
+    "PlayerId": 2661,
+    "StatisticId": 2090
+  },
+  {
+    "PlayerId": 2593,
+    "StatisticId": 2091
+  },
+  {
+    "PlayerId": 2629,
+    "StatisticId": 2092
+  },
+  {
+    "PlayerId": 9882,
+    "StatisticId": 2093
+  },
+  {
+    "PlayerId": 9900,
+    "StatisticId": 2094
+  },
+  {
+    "PlayerId": 9826,
+    "StatisticId": 2095
+  },
+  {
+    "PlayerId": 9955,
+    "StatisticId": 2096
+  },
+  {
+    "PlayerId": 10059,
+    "StatisticId": 2097
+  },
+  {
+    "PlayerId": 10005,
+    "StatisticId": 2098
+  },
+  {
+    "PlayerId": 9840,
+    "StatisticId": 2099
+  },
+  {
+    "PlayerId": 9862,
+    "StatisticId": 2100
+  },
+  {
+    "PlayerId": 9981,
+    "StatisticId": 2101
+  },
+  {
+    "PlayerId": 9844,
+    "StatisticId": 2102
+  },
+  {
+    "PlayerId": 9916,
+    "StatisticId": 2103
+  },
+  {
+    "PlayerId": 10056,
+    "StatisticId": 2104
+  },
+  {
+    "PlayerId": 10053,
+    "StatisticId": 2105
+  },
+  {
+    "PlayerId": 9856,
+    "StatisticId": 2106
+  },
+  {
+    "PlayerId": 9761,
+    "StatisticId": 2107
+  },
+  {
+    "PlayerId": 9913,
+    "StatisticId": 2108
+  },
+  {
+    "PlayerId": 5076,
+    "StatisticId": 2109
+  },
+  {
+    "PlayerId": 9342,
+    "StatisticId": 2110
+  },
+  {
+    "PlayerId": 5678,
+    "StatisticId": 2111
+  },
+  {
+    "PlayerId": 10536,
+    "StatisticId": 2112
+  },
+  {
+    "PlayerId": 2789,
+    "StatisticId": 2113
+  },
+  {
+    "PlayerId": 907,
+    "StatisticId": 2114
+  },
+  {
+    "PlayerId": 7801,
+    "StatisticId": 2115
+  },
+  {
+    "PlayerId": 6299,
+    "StatisticId": 2116
+  },
+  {
+    "PlayerId": 4056,
+    "StatisticId": 2117
+  },
+  {
+    "PlayerId": 2818,
+    "StatisticId": 2118
+  },
+  {
+    "PlayerId": 8657,
+    "StatisticId": 2119
+  },
+  {
+    "PlayerId": 5129,
+    "StatisticId": 2120
+  },
+  {
+    "PlayerId": 8855,
+    "StatisticId": 2121
+  },
+  {
+    "PlayerId": 990,
+    "StatisticId": 2122
+  },
+  {
+    "PlayerId": 3361,
+    "StatisticId": 2123
+  },
+  {
+    "PlayerId": 3210,
+    "StatisticId": 2124
+  },
+  {
+    "PlayerId": 3191,
+    "StatisticId": 2125
+  },
+  {
+    "PlayerId": 3192,
+    "StatisticId": 2126
+  },
+  {
+    "PlayerId": 3196,
+    "StatisticId": 2127
+  },
+  {
+    "PlayerId": 3215,
+    "StatisticId": 2128
+  },
+  {
+    "PlayerId": 3290,
+    "StatisticId": 2129
+  },
+  {
+    "PlayerId": 3377,
+    "StatisticId": 2130
+  },
+  {
+    "PlayerId": 3419,
+    "StatisticId": 2131
+  },
+  {
+    "PlayerId": 3437,
+    "StatisticId": 2132
+  },
+  {
+    "PlayerId": 3492,
+    "StatisticId": 2133
+  },
+  {
+    "PlayerId": 3495,
+    "StatisticId": 2134
+  },
+  {
+    "PlayerId": 8975,
+    "StatisticId": 2135
+  },
+  {
+    "PlayerId": 9059,
+    "StatisticId": 2136
+  },
+  {
+    "PlayerId": 9165,
+    "StatisticId": 2137
+  },
+  {
+    "PlayerId": 8995,
+    "StatisticId": 2138
+  },
+  {
+    "PlayerId": 8934,
+    "StatisticId": 2139
+  },
+  {
+    "PlayerId": 8973,
+    "StatisticId": 2140
+  },
+  {
+    "PlayerId": 9164,
+    "StatisticId": 2141
+  },
+  {
+    "PlayerId": 9067,
+    "StatisticId": 2142
+  },
+  {
+    "PlayerId": 8871,
+    "StatisticId": 2143
+  },
+  {
+    "PlayerId": 9034,
+    "StatisticId": 2144
+  },
+  {
+    "PlayerId": 9070,
+    "StatisticId": 2145
+  },
+  {
+    "PlayerId": 8924,
+    "StatisticId": 2146
+  },
+  {
+    "PlayerId": 135,
+    "StatisticId": 2147
+  },
+  {
+    "PlayerId": 241,
+    "StatisticId": 2148
+  },
+  {
+    "PlayerId": 256,
+    "StatisticId": 2149
+  },
+  {
+    "PlayerId": 227,
+    "StatisticId": 2150
+  },
+  {
+    "PlayerId": 182,
+    "StatisticId": 2151
+  },
+  {
+    "PlayerId": 216,
+    "StatisticId": 2152
+  },
+  {
+    "PlayerId": 180,
+    "StatisticId": 2153
+  },
+  {
+    "PlayerId": 130,
+    "StatisticId": 2154
+  },
+  {
+    "PlayerId": 224,
+    "StatisticId": 2155
+  },
+  {
+    "PlayerId": 212,
+    "StatisticId": 2156
+  },
+  {
+    "PlayerId": 195,
+    "StatisticId": 2157
+  },
+  {
+    "PlayerId": 134,
+    "StatisticId": 2158
+  },
+  {
+    "PlayerId": 11001,
+    "StatisticId": 2159
+  },
+  {
+    "PlayerId": 11101,
+    "StatisticId": 2160
+  },
+  {
+    "PlayerId": 11161,
+    "StatisticId": 2161
+  },
+  {
+    "PlayerId": 11431,
+    "StatisticId": 2162
+  },
+  {
+    "PlayerId": 11246,
+    "StatisticId": 2163
+  },
+  {
+    "PlayerId": 11018,
+    "StatisticId": 2164
+  },
+  {
+    "PlayerId": 11002,
+    "StatisticId": 2165
+  },
+  {
+    "PlayerId": 11242,
+    "StatisticId": 2166
+  },
+  {
+    "PlayerId": 11339,
+    "StatisticId": 2167
+  },
+  {
+    "PlayerId": 11372,
+    "StatisticId": 2168
+  },
+  {
+    "PlayerId": 11054,
+    "StatisticId": 2169
+  },
+  {
+    "PlayerId": 10991,
+    "StatisticId": 2170
+  },
+  {
+    "PlayerId": 11047,
+    "StatisticId": 2171
+  },
+  {
+    "PlayerId": 9776,
+    "StatisticId": 2172
+  },
+  {
+    "PlayerId": 9848,
+    "StatisticId": 2173
+  },
+  {
+    "PlayerId": 9849,
+    "StatisticId": 2174
+  },
+  {
+    "PlayerId": 9850,
+    "StatisticId": 2175
+  },
+  {
+    "PlayerId": 9865,
+    "StatisticId": 2176
+  },
+  {
+    "PlayerId": 9876,
+    "StatisticId": 2177
+  },
+  {
+    "PlayerId": 9906,
+    "StatisticId": 2178
+  },
+  {
+    "PlayerId": 9938,
+    "StatisticId": 2179
+  },
+  {
+    "PlayerId": 9993,
+    "StatisticId": 2180
+  },
+  {
+    "PlayerId": 10002,
+    "StatisticId": 2181
+  },
+  {
+    "PlayerId": 10049,
+    "StatisticId": 2182
+  },
+  {
+    "PlayerId": 10064,
+    "StatisticId": 2183
+  },
+  {
+    "PlayerId": 10043,
+    "StatisticId": 2184
+  },
+  {
+    "PlayerId": 4633,
+    "StatisticId": 2185
+  },
+  {
+    "PlayerId": 4634,
+    "StatisticId": 2186
+  },
+  {
+    "PlayerId": 4637,
+    "StatisticId": 2187
+  },
+  {
+    "PlayerId": 4638,
+    "StatisticId": 2188
+  },
+  {
+    "PlayerId": 4653,
+    "StatisticId": 2189
+  },
+  {
+    "PlayerId": 4666,
+    "StatisticId": 2190
+  },
+  {
+    "PlayerId": 4687,
+    "StatisticId": 2191
+  },
+  {
+    "PlayerId": 4695,
+    "StatisticId": 2192
+  },
+  {
+    "PlayerId": 4718,
+    "StatisticId": 2193
+  },
+  {
+    "PlayerId": 4732,
+    "StatisticId": 2194
+  },
+  {
+    "PlayerId": 4743,
+    "StatisticId": 2195
+  },
+  {
+    "PlayerId": 4748,
+    "StatisticId": 2196
+  },
+  {
+    "PlayerId": 4763,
+    "StatisticId": 2197
+  },
+  {
+    "PlayerId": 6054,
+    "StatisticId": 2198
+  },
+  {
+    "PlayerId": 870,
+    "StatisticId": 2199
+  },
+  {
+    "PlayerId": 9082,
+    "StatisticId": 2200
+  },
+  {
+    "PlayerId": 4787,
+    "StatisticId": 2201
+  },
+  {
+    "PlayerId": 9091,
+    "StatisticId": 2202
+  },
+  {
+    "PlayerId": 11363,
+    "StatisticId": 2203
+  },
+  {
+    "PlayerId": 2406,
+    "StatisticId": 2204
+  },
+  {
+    "PlayerId": 5316,
+    "StatisticId": 2205
+  },
+  {
+    "PlayerId": 6123,
+    "StatisticId": 2206
+  },
+  {
+    "PlayerId": 7971,
+    "StatisticId": 2207
+  },
+  {
+    "PlayerId": 905,
+    "StatisticId": 2208
+  },
+  {
+    "PlayerId": 11060,
+    "StatisticId": 2209
+  },
+  {
+    "PlayerId": 6413,
+    "StatisticId": 2210
+  },
+  {
+    "PlayerId": 7153,
+    "StatisticId": 2211
+  },
+  {
+    "PlayerId": 1074,
+    "StatisticId": 2212
+  },
+  {
+    "PlayerId": 10855,
+    "StatisticId": 2213
+  },
+  {
+    "PlayerId": 11439,
+    "StatisticId": 2214
+  },
+  {
+    "PlayerId": 11033,
+    "StatisticId": 2215
+  },
+  {
+    "PlayerId": 11376,
+    "StatisticId": 2216
+  },
+  {
+    "PlayerId": 11030,
+    "StatisticId": 2217
+  },
+  {
+    "PlayerId": 11164,
+    "StatisticId": 2218
+  },
+  {
+    "PlayerId": 11386,
+    "StatisticId": 2219
+  },
+  {
+    "PlayerId": 10878,
+    "StatisticId": 2220
+  },
+  {
+    "PlayerId": 10962,
+    "StatisticId": 2221
+  },
+  {
+    "PlayerId": 11007,
+    "StatisticId": 2222
+  },
+  {
+    "PlayerId": 10909,
+    "StatisticId": 2223
+  },
+  {
+    "PlayerId": 10926,
+    "StatisticId": 2224
+  },
+  {
+    "PlayerId": 5949,
+    "StatisticId": 2225
+  },
+  {
+    "PlayerId": 6134,
+    "StatisticId": 2226
+  },
+  {
+    "PlayerId": 5906,
+    "StatisticId": 2227
+  },
+  {
+    "PlayerId": 5947,
+    "StatisticId": 2228
+  },
+  {
+    "PlayerId": 5962,
+    "StatisticId": 2229
+  },
+  {
+    "PlayerId": 5979,
+    "StatisticId": 2230
+  },
+  {
+    "PlayerId": 5764,
+    "StatisticId": 2231
+  },
+  {
+    "PlayerId": 5924,
+    "StatisticId": 2232
+  },
+  {
+    "PlayerId": 5946,
+    "StatisticId": 2233
+  },
+  {
+    "PlayerId": 5667,
+    "StatisticId": 2234
+  },
+  {
+    "PlayerId": 6041,
+    "StatisticId": 2235
+  },
+  {
+    "PlayerId": 6175,
+    "StatisticId": 2236
+  },
+  {
+    "PlayerId": 3262,
+    "StatisticId": 2237
+  },
+  {
+    "PlayerId": 3253,
+    "StatisticId": 2238
+  },
+  {
+    "PlayerId": 3328,
+    "StatisticId": 2239
+  },
+  {
+    "PlayerId": 3400,
+    "StatisticId": 2240
+  },
+  {
+    "PlayerId": 3516,
+    "StatisticId": 2241
+  },
+  {
+    "PlayerId": 3485,
+    "StatisticId": 2242
+  },
+  {
+    "PlayerId": 3407,
+    "StatisticId": 2243
+  },
+  {
+    "PlayerId": 3209,
+    "StatisticId": 2244
+  },
+  {
+    "PlayerId": 3296,
+    "StatisticId": 2245
+  },
+  {
+    "PlayerId": 3471,
+    "StatisticId": 2246
+  },
+  {
+    "PlayerId": 3212,
+    "StatisticId": 2247
+  },
+  {
+    "PlayerId": 3519,
+    "StatisticId": 2248
+  },
+  {
+    "PlayerId": 2360,
+    "StatisticId": 2249
+  },
+  {
+    "PlayerId": 10950,
+    "StatisticId": 2250
+  },
+  {
+    "PlayerId": 11500,
+    "StatisticId": 2251
+  },
+  {
+    "PlayerId": 11403,
+    "StatisticId": 2252
+  },
+  {
+    "PlayerId": 4975,
+    "StatisticId": 2253
+  },
+  {
+    "PlayerId": 1365,
+    "StatisticId": 2254
+  },
+  {
+    "PlayerId": 4272,
+    "StatisticId": 2255
+  },
+  {
+    "PlayerId": 7856,
+    "StatisticId": 2256
+  },
+  {
+    "PlayerId": 4183,
+    "StatisticId": 2257
+  },
+  {
+    "PlayerId": 6634,
+    "StatisticId": 2258
+  },
+  {
+    "PlayerId": 7137,
+    "StatisticId": 2259
+  },
+  {
+    "PlayerId": 11408,
+    "StatisticId": 2260
+  },
+  {
+    "PlayerId": 5836,
+    "StatisticId": 2261
+  },
+  {
+    "PlayerId": 7288,
+    "StatisticId": 2262
+  },
+  {
+    "PlayerId": 1873,
+    "StatisticId": 2263
+  },
+  {
+    "PlayerId": 10798,
+    "StatisticId": 2264
+  },
+  {
+    "PlayerId": 4587,
+    "StatisticId": 2265
+  },
+  {
+    "PlayerId": 3255,
+    "StatisticId": 2266
+  },
+  {
+    "PlayerId": 3427,
+    "StatisticId": 2267
+  },
+  {
+    "PlayerId": 3374,
+    "StatisticId": 2268
+  },
+  {
+    "PlayerId": 3231,
+    "StatisticId": 2269
+  },
+  {
+    "PlayerId": 3355,
+    "StatisticId": 2270
+  },
+  {
+    "PlayerId": 3508,
+    "StatisticId": 2271
+  },
+  {
+    "PlayerId": 3269,
+    "StatisticId": 2272
+  },
+  {
+    "PlayerId": 3345,
+    "StatisticId": 2273
+  },
+  {
+    "PlayerId": 3478,
+    "StatisticId": 2274
+  },
+  {
+    "PlayerId": 3217,
+    "StatisticId": 2275
+  },
+  {
+    "PlayerId": 3267,
+    "StatisticId": 2276
+  },
+  {
+    "PlayerId": 3230,
+    "StatisticId": 2277
+  },
+  {
+    "PlayerId": 3522,
+    "StatisticId": 2278
+  },
+  {
+    "PlayerId": 3423,
+    "StatisticId": 2279
+  },
+  {
+    "PlayerId": 3447,
+    "StatisticId": 2280
+  },
+  {
+    "PlayerId": 3421,
+    "StatisticId": 2281
+  },
+  {
+    "PlayerId": 8870,
+    "StatisticId": 2282
+  },
+  {
+    "PlayerId": 9155,
+    "StatisticId": 2283
+  },
+  {
+    "PlayerId": 9169,
+    "StatisticId": 2284
+  },
+  {
+    "PlayerId": 8928,
+    "StatisticId": 2285
+  },
+  {
+    "PlayerId": 8893,
+    "StatisticId": 2286
+  },
+  {
+    "PlayerId": 8939,
+    "StatisticId": 2287
+  },
+  {
+    "PlayerId": 8944,
+    "StatisticId": 2288
+  },
+  {
+    "PlayerId": 9000,
+    "StatisticId": 2289
+  },
+  {
+    "PlayerId": 9015,
+    "StatisticId": 2290
+  },
+  {
+    "PlayerId": 9021,
+    "StatisticId": 2291
+  },
+  {
+    "PlayerId": 9033,
+    "StatisticId": 2292
+  },
+  {
+    "PlayerId": 9094,
+    "StatisticId": 2293
+  },
+  {
+    "PlayerId": 9098,
+    "StatisticId": 2294
+  },
+  {
+    "PlayerId": 9122,
+    "StatisticId": 2295
+  },
+  {
+    "PlayerId": 8912,
+    "StatisticId": 2296
+  },
+  {
+    "PlayerId": 7686,
+    "StatisticId": 2297
+  },
+  {
+    "PlayerId": 7642,
+    "StatisticId": 2298
+  },
+  {
+    "PlayerId": 7656,
+    "StatisticId": 2299
+  },
+  {
+    "PlayerId": 7669,
+    "StatisticId": 2300
+  },
+  {
+    "PlayerId": 7648,
+    "StatisticId": 2301
+  },
+  {
+    "PlayerId": 7675,
+    "StatisticId": 2302
+  },
+  {
+    "PlayerId": 7652,
+    "StatisticId": 2303
+  },
+  {
+    "PlayerId": 7646,
+    "StatisticId": 2304
+  },
+  {
+    "PlayerId": 7609,
+    "StatisticId": 2305
+  },
+  {
+    "PlayerId": 7617,
+    "StatisticId": 2306
+  },
+  {
+    "PlayerId": 7607,
+    "StatisticId": 2307
+  },
+  {
+    "PlayerId": 7608,
+    "StatisticId": 2308
+  },
+  {
+    "PlayerId": 7677,
+    "StatisticId": 2309
+  },
+  {
+    "PlayerId": 7633,
+    "StatisticId": 2310
+  },
+  {
+    "PlayerId": 7678,
+    "StatisticId": 2311
+  },
+  {
+    "PlayerId": 1572,
+    "StatisticId": 2312
+  },
+  {
+    "PlayerId": 1598,
+    "StatisticId": 2313
+  },
+  {
+    "PlayerId": 1586,
+    "StatisticId": 2314
+  },
+  {
+    "PlayerId": 1608,
+    "StatisticId": 2315
+  },
+  {
+    "PlayerId": 1604,
+    "StatisticId": 2316
+  },
+  {
+    "PlayerId": 8869,
+    "StatisticId": 2317
+  },
+  {
+    "PlayerId": 9108,
+    "StatisticId": 2318
+  },
+  {
+    "PlayerId": 9148,
+    "StatisticId": 2319
+  },
+  {
+    "PlayerId": 9018,
+    "StatisticId": 2320
+  },
+  {
+    "PlayerId": 9143,
+    "StatisticId": 2321
+  },
+  {
+    "PlayerId": 5451,
+    "StatisticId": 2322
+  },
+  {
+    "PlayerId": 5298,
+    "StatisticId": 2323
+  },
+  {
+    "PlayerId": 5543,
+    "StatisticId": 2324
+  },
+  {
+    "PlayerId": 5350,
+    "StatisticId": 2325
+  },
+  {
+    "PlayerId": 5463,
+    "StatisticId": 2326
+  },
+  {
+    "PlayerId": 10971,
+    "StatisticId": 2327
+  },
+  {
+    "PlayerId": 11256,
+    "StatisticId": 2328
+  },
+  {
+    "PlayerId": 10839,
+    "StatisticId": 2329
+  },
+  {
+    "PlayerId": 11418,
+    "StatisticId": 2330
+  },
+  {
+    "PlayerId": 11143,
+    "StatisticId": 2331
+  },
+  {
+    "PlayerId": 11449,
+    "StatisticId": 2332
+  },
+  {
+    "PlayerId": 11061,
+    "StatisticId": 2333
+  },
+  {
+    "PlayerId": 11304,
+    "StatisticId": 2334
+  },
+  {
+    "PlayerId": 10863,
+    "StatisticId": 2335
+  },
+  {
+    "PlayerId": 11044,
+    "StatisticId": 2336
+  },
+  {
+    "PlayerId": 11275,
+    "StatisticId": 2337
+  },
+  {
+    "PlayerId": 11395,
+    "StatisticId": 2338
+  },
+  {
+    "PlayerId": 1314,
+    "StatisticId": 2339
+  },
+  {
+    "PlayerId": 1324,
+    "StatisticId": 2340
+  },
+  {
+    "PlayerId": 1441,
+    "StatisticId": 2341
+  },
+  {
+    "PlayerId": 1291,
+    "StatisticId": 2342
+  },
+  {
+    "PlayerId": 1337,
+    "StatisticId": 2343
+  },
+  {
+    "PlayerId": 1488,
+    "StatisticId": 2344
+  },
+  {
+    "PlayerId": 1290,
+    "StatisticId": 2345
+  },
+  {
+    "PlayerId": 1515,
+    "StatisticId": 2346
+  },
+  {
+    "PlayerId": 1465,
+    "StatisticId": 2347
+  },
+  {
+    "PlayerId": 1447,
+    "StatisticId": 2348
+  },
+  {
+    "PlayerId": 1480,
+    "StatisticId": 2349
+  },
+  {
+    "PlayerId": 1297,
+    "StatisticId": 2350
+  },
+  {
+    "PlayerId": 9363,
+    "StatisticId": 2351
+  },
+  {
+    "PlayerId": 9368,
+    "StatisticId": 2352
+  },
+  {
+    "PlayerId": 9401,
+    "StatisticId": 2353
+  },
+  {
+    "PlayerId": 9399,
+    "StatisticId": 2354
+  },
+  {
+    "PlayerId": 9364,
+    "StatisticId": 2355
+  },
+  {
+    "PlayerId": 9356,
+    "StatisticId": 2356
+  },
+  {
+    "PlayerId": 9411,
+    "StatisticId": 2357
+  },
+  {
+    "PlayerId": 9422,
+    "StatisticId": 2358
+  },
+  {
+    "PlayerId": 9416,
+    "StatisticId": 2359
+  },
+  {
+    "PlayerId": 9417,
+    "StatisticId": 2360
+  },
+  {
+    "PlayerId": 9403,
+    "StatisticId": 2361
+  },
+  {
+    "PlayerId": 9366,
+    "StatisticId": 2362
+  },
+  {
+    "PlayerId": 9357,
+    "StatisticId": 2363
+  },
+  {
+    "PlayerId": 9376,
+    "StatisticId": 2364
+  },
+  {
+    "PlayerId": 9380,
+    "StatisticId": 2365
+  },
+  {
+    "PlayerId": 9381,
+    "StatisticId": 2366
+  },
+  {
+    "PlayerId": 9391,
+    "StatisticId": 2367
+  },
+  {
+    "PlayerId": 9396,
+    "StatisticId": 2368
+  },
+  {
+    "PlayerId": 9404,
+    "StatisticId": 2369
+  },
+  {
+    "PlayerId": 9405,
+    "StatisticId": 2370
+  },
+  {
+    "PlayerId": 9414,
+    "StatisticId": 2371
+  },
+  {
+    "PlayerId": 9415,
+    "StatisticId": 2372
+  },
+  {
+    "PlayerId": 9419,
+    "StatisticId": 2373
+  },
+  {
+    "PlayerId": 9421,
+    "StatisticId": 2374
+  },
+  {
+    "PlayerId": 9423,
+    "StatisticId": 2375
+  },
+  {
+    "PlayerId": 4397,
+    "StatisticId": 2376
+  },
+  {
+    "PlayerId": 4400,
+    "StatisticId": 2377
+  },
+  {
+    "PlayerId": 4407,
+    "StatisticId": 2378
+  },
+  {
+    "PlayerId": 4410,
+    "StatisticId": 2379
+  },
+  {
+    "PlayerId": 4411,
+    "StatisticId": 2380
+  },
+  {
+    "PlayerId": 4420,
+    "StatisticId": 2381
+  },
+  {
+    "PlayerId": 4425,
+    "StatisticId": 2382
+  },
+  {
+    "PlayerId": 4439,
+    "StatisticId": 2383
+  },
+  {
+    "PlayerId": 4446,
+    "StatisticId": 2384
+  },
+  {
+    "PlayerId": 4458,
+    "StatisticId": 2385
+  },
+  {
+    "PlayerId": 4473,
+    "StatisticId": 2386
+  },
+  {
+    "PlayerId": 4475,
+    "StatisticId": 2387
+  },
+  {
+    "PlayerId": 4414,
+    "StatisticId": 2388
+  },
+  {
+    "PlayerId": 4721,
+    "StatisticId": 2389
+  },
+  {
+    "PlayerId": 4605,
+    "StatisticId": 2390
+  },
+  {
+    "PlayerId": 4628,
+    "StatisticId": 2391
+  },
+  {
+    "PlayerId": 4645,
+    "StatisticId": 2392
+  },
+  {
+    "PlayerId": 4651,
+    "StatisticId": 2393
+  },
+  {
+    "PlayerId": 4655,
+    "StatisticId": 2394
+  },
+  {
+    "PlayerId": 4698,
+    "StatisticId": 2395
+  },
+  {
+    "PlayerId": 4706,
+    "StatisticId": 2396
+  },
+  {
+    "PlayerId": 4713,
+    "StatisticId": 2397
+  },
+  {
+    "PlayerId": 4764,
+    "StatisticId": 2398
+  },
+  {
+    "PlayerId": 4767,
+    "StatisticId": 2399
+  },
+  {
+    "PlayerId": 4773,
+    "StatisticId": 2400
+  },
+  {
+    "PlayerId": 4774,
+    "StatisticId": 2401
+  }
+]

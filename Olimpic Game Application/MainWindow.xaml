@@ -1,0 +1,42 @@
+﻿<Window x:Class="Olimpic_Game_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Olimpic_Game_Application"
+        xmlns:mycontrols="clr-namespace:Olimpic_Game_Application.Controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        WindowStyle="None" AllowsTransparency="True" Background="Transparent">
+    <Window.Resources>
+        
+    </Window.Resources>
+    <Grid>
+        <Border Name="BackgroundElement" Background="{DynamicResource BaseColor}" CornerRadius="5" BorderThickness="1" BorderBrush="{DynamicResource ElementColor1}"/>
+        <Grid Margin="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <mycontrols:SettingPage Grid.Column="1" Grid.Row="1" Visibility="Hidden" x:Name="SettingsMenu"/>
+            <mycontrols:DataPage Grid.Column="1" Grid.Row="1" Visibility="Hidden" x:Name="dataPage"/>
+            <Border CornerRadius="4.5,4.5,0,0" Grid.ColumnSpan="2" MouseLeftButtonDown="Border_MouseLeftButtonDown" Background="#4E000000"></Border>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Click="Minimize_Click" Style="{DynamicResource WindowControlButton2}" Width="30">🗕</Button>
+                <Button Click="Maximize_Click" Style="{DynamicResource WindowControlButton2}" Width="30">🗖</Button>
+                <Button Click="Close_Click" Style="{DynamicResource WindowControlButton1}" Width="30">🗙</Button>
+            </StackPanel>
+            <mycontrols:SideMenu x:Name="sideMenu" AnimationSpeed="200" ClosedWidth="40" OpenedWidth="100" Grid.Row="1" Background="{DynamicResource AdditionalBackground}" CornerRadius="0,0,0,4.5" HorizontalAlignment="Left">
+                <mycontrols:SideMenu.Items>
+                    <mycontrols:SideMenuItem ImageSource="https://img.icons8.com/ios-filled/500/FFFFFF/database.png" ClosedWidth="30" Text="Data" MouseLeftButtonDown="SideMenuItem_MouseLeftButtonDown"/>
+                    <mycontrols:SideMenuItem ImageSource="https://img.icons8.com/ios-filled/500/FFFFFF/edit--v1.png" ClosedWidth="30" Text="Edit" MouseLeftButtonDown="SideMenuItem_MouseLeftButtonDown_1"/>
+                    <mycontrols:SideMenuItem ImageSource="https://img.icons8.com/ios-filled/500/FFFFFF/settings.png" ClosedWidth="30" Text="Setting" VerticalAlignment="Bottom" MouseLeftButtonDown="SideMenuItem_MouseLeftButtonDown_2"/>
+                </mycontrols:SideMenu.Items>
+            </mycontrols:SideMenu>
+            
+        </Grid>
+    </Grid>
+</Window>
